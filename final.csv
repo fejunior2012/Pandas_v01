@@ -1,0 +1,1001 @@
+,ID,Nome Completo,Idade,Data de Nascimento,Gênero,Salário,Peso (kg),Altura (m),Departamento,Data de Admissão,Email,Telefone
+0,1,João Miguel Costa,58,09/12/1967,Masculino,12045.31,86.9,,Logística,13/01/2018,barbosaigor@rocha.br,+55 84 4554-1291
+1,2,Luiza Freitas,25,22/03/2004,Feminino,9491.13,71.6,,Vendas,05/07/2020,leandro93@gmail.com,0300-167-7401
+2,3,Valentina Oliveira,19,06/06/1961,Masculino,12730.28,65.4,1.92,Marketing,17/12/2018,efarias@gmail.com,+55 (084) 6952 6333
+3,4,Lorenzo Cardoso,65,07/05/1987,Feminino,13131.53,118.9,1.84,Engenharia,10/01/2017,juliasilveira@oliveira.br,+55 (021) 8323 6186
+4,5,Giovanna Cardoso,35,18/07/1966,Masculino,15962.48,53.8,1.64,TI,18/08/2024,isabellacorreia@gomes.br,+55 (061) 7507-4719
+5,6,Luiz Henrique Dias,33,01/06/1974,Masculino,8846.8,64.3,1.5,RH,13/09/2019,enogueira@pereira.com,0300 753 3535
+6,7,Melissa Castro,32,04/09/1978,Feminino,18353.08,116.2,1.55,RH,23/04/2023,fernandoda-cunha@uol.com.br,(021) 7955-2451
+7,8,Cauê Azevedo,26,20/12/2006,Feminino,7352.36,103.7,1.57,Vendas,09/07/2023,rda-cruz@hotmail.com,(071) 1143 3329
+8,9,Eloah Cunha,65,13/03/2005,Feminino,12593.45,103.5,1.63,TI,28/11/2016,raquel27@azevedo.br,84 6800-1963
+9,10,Srta. Ana Vitória da Rosa,24,14/11/1963,Masculino,9718.94,70.3,1.68,Marketing,28/02/2019,costelamarina@costela.br,+55 61 1930-5062
+10,11,Davi Lucas Gomes,61,05/10/1962,Masculino,12235.33,58.4,1.7,Marketing,23/10/2024,ksales@duarte.com,(011) 7677 5661
+11,12,Thomas da Rosa,65,09/01/1972,Masculino,3084.15,84.8,1.52,Vendas,22/01/2025,vieirakamilly@campos.net,61 6064-0061
+12,13,Maria Clara Souza,52,30/03/1971,Outro,19281.96,80.1,1.53,RH,26/02/2024,carlos-eduardo83@yahoo.com.br,+55 21 5361 5577
+13,14,Pedro Miguel Santos,23,14/08/1963,Masculino,3786.2,59.0,1.78,Financeiro,19/09/2022,joao-miguel03@almeida.br,71 2143-1162
+14,15,Valentina Sales,55,26/12/1988,Feminino,15729.27,87.3,1.68,Logística,23/07/2018,danielgomes@ig.com.br,(084) 1004-2893
+15,16,Rebeca Azevedo,45,25/05/2003,Feminino,13259.27,66.1,1.64,TI,11/12/2015,gsales@gmail.com,+55 (051) 9830 5131
+16,17,Vitor Gabriel Nunes,20,30/01/1999,Feminino,6763.63,89.1,1.69,RH,26/04/2016,pjesus@barbosa.org,+55 51 8355 5733
+17,18,Davi da Mata,19,04/10/1961,Masculino,3461.37,96.8,1.73,Financeiro,28/04/2022,correiasarah@ig.com.br,(084) 7345-9302
+18,19,Manuela Martins,23,25/02/1960,Feminino,6317.57,74.8,1.77,Marketing,19/05/2023,benjamin51@bol.com.br,31 7748-3092
+19,20,Emanuelly Costela,31,13/12/2003,Feminino,11935.86,77.8,1.91,Financeiro,06/05/2016,marcelocavalcanti@uol.com.br,(051) 2386 7516
+20,21,Sophia Nunes,32,27/12/1997,Outro,4817.59,101.9,1.81,Logística,20/06/2021,icostela@yahoo.com.br,0500 406 2492
+21,22,Sarah Melo,50,14/01/1991,Outro,9353.32,80.5,1.81,Logística,22/07/2020,ida-mota@fogaca.com,11 9829-2842
+22,23,Evelyn Gomes,56,20/09/1994,Feminino,14408.68,82.2,1.56,Vendas,06/04/2015,gomesmelissa@ig.com.br,+55 (021) 4381-9267
+23,24,Elisa Oliveira,19,03/02/2007,Outro,10458.42,55.5,1.55,Logística,28/11/2021,heloisa66@gmail.com,(084) 7298-2037
+24,25,Matheus Oliveira,53,01/08/1963,Outro,2587.52,71.9,1.69,Engenharia,25/04/2024,qferreira@bol.com.br,+55 11 1657-5079
+25,26,Milena Nunes,30,05/12/2003,Feminino,7185.89,80.0,1.99,RH,14/06/2019,dpeixoto@bol.com.br,41 2700-8571
+26,27,Marina da Mota,63,25/08/1972,Masculino,7088.93,78.3,1.78,TI,16/01/2017,qmartins@hotmail.com,0300 051 4119
+27,28,Maria Clara da Mota,59,02/12/1969,Masculino,17472.92,94.8,1.68,Financeiro,21/04/2018,pereiramaria-eduarda@hotmail.com,+55 21 2416-5742
+28,29,Clarice da Cruz,62,10/08/1982,Feminino,3281.24,70.3,1.57,Marketing,28/02/2020,davidias@correia.br,(084) 7847-4746
+29,30,Bárbara Azevedo,52,28/07/1998,Masculino,6201.63,78.4,1.8,Financeiro,16/02/2016,gda-costa@freitas.com,(021) 9664 5540
+30,31,Ana Clara Fernandes,44,09/08/2000,Outro,6761.98,117.6,1.7,Marketing,11/08/2018,isabellacampos@aragao.org,(071) 3533 5724
+31,32,Maria Alice Cardoso,32,31/03/1996,Feminino,16242.46,62.0,1.52,Logística,27/06/2022,da-conceicaovalentina@ig.com.br,+55 41 6862-6646
+32,33,Heloísa Pinto,46,14/11/1959,Masculino,12616.21,116.3,1.52,Logística,23/11/2021,duartelevi@ig.com.br,+55 (041) 8240-1688
+33,34,Sra. Valentina Silva,55,28/10/2001,Masculino,16470.3,82.2,1.86,Engenharia,20/12/2016,benjamin66@da.com,+55 (031) 0743-1345
+34,35,Lucas da Mata,35,18/05/1973,Outro,5560.75,98.3,1.9,Vendas,17/01/2025,lucas55@teixeira.br,(061) 4283-0422
+35,36,Raul Mendes,18,21/06/1961,Feminino,4065.97,75.3,1.76,Marketing,07/07/2016,ycostela@costa.br,21 6693 7458
+36,37,Yuri Peixoto,28,06/07/1993,Feminino,6046.57,80.6,1.57,TI,19/07/2018,daniel85@ribeiro.com,+55 61 0045 5124
+37,38,Eduarda Moraes,62,02/11/1960,Outro,4681.81,57.4,1.95,Engenharia,09/10/2021,xduarte@yahoo.com.br,+55 (051) 3100 7867
+38,39,Pedro Miguel da Conceição,45,18/03/1993,Feminino,6781.38,80.5,1.57,Logística,13/09/2019,caue47@vieira.com,(084) 2808 0100
+39,40,Clarice da Cruz,39,22/10/1975,Feminino,4560.25,78.0,1.97,Vendas,25/08/2022,brezende@lima.br,(021) 5186 7367
+40,41,Noah Barbosa,35,06/05/1997,Outro,3073.48,55.5,1.66,Financeiro,15/02/2025,brunacardoso@uol.com.br,0800-637-7312
+41,42,Dra. Agatha Barbosa,27,23/12/1974,Outro,16267.31,110.9,1.7,Logística,03/05/2023,gabriel13@freitas.br,(071) 2418-3880
+42,43,Daniela Freitas,31,18/10/1959,Masculino,12710.79,102.2,1.81,Vendas,22/06/2019,arthur12@ig.com.br,+55 84 0410 7195
+43,44,Vitor Hugo Cardoso,39,21/08/1995,Feminino,16836.33,65.5,1.92,Vendas,14/03/2020,zmartins@bol.com.br,84 7137-6226
+44,45,Theo Farias,24,18/12/1973,Outro,18581.47,104.5,1.8,RH,06/09/2017,maria-ceciliamoreira@campos.br,(084) 1974-7141
+45,46,Olivia da Conceição,23,02/05/1972,Masculino,9904.76,55.3,1.75,Marketing,09/05/2024,ydas-neves@ig.com.br,+55 (021) 3818 4179
+46,47,Thiago Nascimento,42,19/04/1995,Feminino,10436.56,94.3,1.75,Vendas,08/11/2018,theosales@vieira.com,+55 (081) 6328 0822
+47,48,Larissa da Rocha,24,21/01/1988,Masculino,7473.64,87.1,1.74,TI,18/08/2020,azevedolucas@gmail.com,0800-671-0307
+48,49,Carolina Souza,40,31/07/1986,Outro,9245.15,63.6,1.78,RH,08/10/2017,joao-felipe10@goncalves.com,+55 71 2012 4386
+49,50,Alice Melo,40,21/05/1983,Feminino,6900.43,104.3,1.74,RH,15/04/2021,bernardofarias@barbosa.com,+55 31 6620-9377
+50,51,Srta. Júlia Pinto,56,16/11/1960,Masculino,11719.67,74.6,1.51,Engenharia,21/12/2019,santosjoana@pires.org,0300 561 0928
+51,52,Dr. João Miguel Costela,34,18/08/1974,Outro,9879.66,117.1,1.67,Financeiro,04/02/2023,kaiquemoreira@uol.com.br,11 1990-2229
+52,53,Sra. Mariana Aragão,20,18/08/2001,Outro,12764.66,95.2,1.55,Logística,05/08/2021,brendadas-neves@bol.com.br,+55 31 6339 2746
+53,54,Joaquim Oliveira,64,14/02/1988,Outro,18009.61,60.3,1.71,RH,24/07/2017,thiago09@yahoo.com.br,0500 210 0792
+54,55,Maria Fernanda Dias,47,13/11/1974,Outro,15221.61,57.2,1.65,TI,16/03/2021,murilo84@novaes.net,(031) 7102-3906
+55,56,Enrico Dias,52,11/11/1994,Outro,12866.85,67.9,1.95,Marketing,05/04/2022,luiz-miguel22@silveira.br,+55 (051) 9139 2363
+56,57,Luigi Costela,25,22/01/1989,Outro,2465.57,62.1,1.94,Logística,09/03/2021,maria-sophiamoraes@bol.com.br,+55 (011) 6431-4914
+57,58,Gabriela Castro,42,23/10/1968,Outro,6120.64,60.7,1.81,Marketing,14/06/2016,theo44@ig.com.br,+55 84 5914-3384
+58,59,Davi Lucca Jesus,23,06/10/1984,Masculino,14137.37,103.1,1.8,Marketing,18/03/2016,martinsclara@lopes.com,+55 31 2505-1654
+59,60,Sarah Cunha,53,25/03/1964,Feminino,17489.3,55.3,1.63,Engenharia,02/01/2017,bryan83@yahoo.com.br,+55 (021) 4840 2139
+60,61,Sr. Guilherme Ramos,36,29/08/2006,Feminino,12568.21,116.6,1.83,Logística,05/07/2017,aragaodaniel@yahoo.com.br,0300-644-8997
+61,62,João Vitor Oliveira,58,16/12/1995,Masculino,2373.42,94.0,1.99,TI,06/05/2019,antonio06@farias.br,+55 (071) 0844 7019
+62,63,Vitória da Cunha,57,25/02/1974,Outro,15765.69,82.5,1.79,RH,02/08/2023,ocostela@hotmail.com,+55 81 9859-6855
+63,64,Lorenzo Barbosa,41,13/11/1985,Feminino,16785.58,89.5,1.61,Vendas,01/08/2017,wdas-neves@correia.br,11 3158-9424
+64,65,Heitor da Conceição,54,21/10/1978,Outro,12372.45,90.6,1.53,TI,02/05/2015,vitor-gabrielribeiro@bol.com.br,+55 (051) 0625-3058
+65,66,Maria Sophia Araújo,30,10/09/1969,Feminino,15735.96,97.7,1.74,Logística,18/11/2021,bernardopereira@yahoo.com.br,(011) 2313 4514
+66,67,Bryan Cardoso,63,29/02/1976,Outro,5153.43,111.7,1.76,Engenharia,01/02/2023,kmoraes@fernandes.org,+55 61 0971 7347
+67,68,Srta. Joana Barros,22,05/04/1996,Masculino,11341.35,95.0,1.86,Engenharia,26/06/2017,nicole21@novaes.br,81 5008 2312
+68,69,Sr. Benício Porto,20,12/10/1989,Outro,9960.13,119.1,1.89,Financeiro,11/07/2023,kdas-neves@yahoo.com.br,+55 31 1419 5109
+69,70,Lucas Gabriel Cardoso,60,14/01/1973,Feminino,7006.82,72.6,1.69,TI,12/09/2022,danilolopes@ig.com.br,(021) 6711-8263
+70,71,Ana Laura Costela,32,19/10/2004,Outro,19945.02,118.0,1.91,Marketing,18/07/2020,maria-eduarda60@costela.com,11 6898 4952
+71,72,Beatriz da Paz,36,14/12/1968,Feminino,9845.93,72.1,1.62,Engenharia,05/03/2016,lsilva@santos.org,+55 41 0136 5045
+72,73,Natália Lima,23,14/01/1963,Outro,16656.41,80.8,1.79,Engenharia,25/12/2017,maria-luiza02@rezende.br,+55 31 8863 4734
+73,74,Mariane Freitas,32,19/08/2006,Feminino,19442.99,82.8,1.85,Financeiro,07/08/2023,cnascimento@yahoo.com.br,21 9453-9943
+74,75,Mariane Mendes,24,20/07/1972,Feminino,10460.19,94.2,1.6,Vendas,13/07/2016,araujogabriela@nascimento.br,(081) 6935 0722
+75,76,Ana Beatriz da Cruz,42,01/04/1964,Feminino,9350.27,105.7,1.72,Marketing,24/10/2020,nunesmiguel@barros.com,+55 (081) 3649-0563
+76,77,Vitor Hugo Azevedo,35,04/11/2003,Outro,7779.05,91.4,1.71,Vendas,31/05/2021,camposalice@hotmail.com,61 9970-7479
+77,78,Rafaela Fogaça,47,28/05/1964,Feminino,3882.8,74.6,1.71,Engenharia,09/09/2024,juliamartins@fogaca.br,0500-487-8277
+78,79,Nicolas Araújo,58,17/05/1999,Outro,4894.85,55.2,1.6,RH,18/10/2018,da-motaamanda@bol.com.br,+55 (021) 7255-6265
+79,80,Cecília Costa,41,14/11/1974,Masculino,9409.61,82.3,1.75,Logística,25/12/2018,giovanna18@jesus.org,31 2373-1213
+80,81,Gustavo Henrique Alves,28,12/07/1978,Masculino,10918.44,52.6,1.81,Marketing,18/01/2016,pmonteiro@bol.com.br,0300-456-5806
+81,82,Ana Vitória das Neves,41,26/10/1976,Feminino,13926.5,75.8,1.74,TI,25/10/2021,cardosoigor@bol.com.br,(051) 6741 5932
+82,83,Cauã da Costa,40,19/01/1979,Outro,9208.14,70.1,1.92,Logística,11/03/2016,pedro-miguel87@lopes.com,(041) 2245 7959
+83,84,Vicente Freitas,31,05/01/1977,Feminino,15689.0,95.1,1.86,Financeiro,16/11/2022,dcostela@rocha.org,+55 21 8779 0580
+84,85,Bárbara Viana,60,05/06/2003,Outro,2660.55,118.4,1.85,Vendas,13/06/2022,alexianogueira@gmail.com,41 2354 1693
+85,86,Pedro Santos,35,12/05/1974,Outro,3585.08,56.3,1.76,RH,07/05/2017,vicenteda-luz@cunha.br,(084) 3322-9089
+86,87,Bianca Santos,62,01/03/1971,Masculino,6543.18,91.6,1.78,RH,07/03/2021,murilo48@araujo.com,+55 (021) 1197 5865
+87,88,Joaquim Jesus,61,18/09/1978,Outro,4086.59,76.9,2.0,TI,08/06/2021,lucas62@da.br,51 4744 3977
+88,89,Luiz Henrique Melo,59,07/01/1963,Outro,15905.86,90.6,1.74,Financeiro,30/01/2025,da-costaisabel@nogueira.com,(041) 4097 7109
+89,90,Maitê Cunha,22,22/04/1969,Feminino,17568.39,116.8,1.69,Engenharia,31/10/2019,breno46@bol.com.br,81 6910 9914
+90,91,Leonardo Jesus,56,13/09/1981,Feminino,16848.69,101.7,1.98,Vendas,06/12/2024,lavinia36@gmail.com,51 9389 1876
+91,92,Ana Luiza Aragão,58,25/03/1963,Outro,2020.72,52.9,1.73,Logística,25/04/2015,vda-paz@hotmail.com,+55 (041) 0940 3920
+92,93,João Felipe da Luz,28,08/06/1965,Masculino,17648.61,113.6,1.77,Vendas,15/12/2016,ramosmariane@pires.com,0500-359-2399
+93,94,João Sales,52,03/01/2002,Feminino,10315.57,90.0,1.77,Financeiro,10/06/2021,acampos@gmail.com,+55 71 9255 8020
+94,95,Leandro Gomes,64,24/09/1987,Feminino,2975.67,63.2,1.84,Vendas,28/06/2016,acastro@yahoo.com.br,(011) 5398-2668
+95,96,Luiz Fernando Farias,33,31/05/1969,Masculino,11331.91,92.4,1.93,Engenharia,09/10/2024,isiscosta@pereira.br,+55 31 4263 0098
+96,97,Bruno Cavalcanti,28,12/12/1982,Feminino,13207.41,85.1,1.84,TI,25/12/2023,natalia70@uol.com.br,0900-514-8979
+97,98,Lucca Oliveira,47,23/06/1992,Outro,10972.88,117.0,1.9,TI,26/11/2018,joaoramos@ig.com.br,81 7033-1883
+98,99,Isabel da Mota,42,24/10/1965,Outro,9956.74,81.5,1.63,RH,04/03/2021,viniciusalmeida@da.br,81 9438-0746
+99,100,Renan Rodrigues,35,31/05/1992,Outro,2929.01,106.8,1.74,RH,25/05/2024,agatha66@da.br,+55 (084) 6340 1491
+100,101,Diego da Rosa,58,28/08/2006,Feminino,6807.01,108.6,1.98,RH,07/11/2016,luiz-fernando80@yahoo.com.br,81 6361 7025
+101,102,Maitê Almeida,62,26/12/1975,Feminino,4358.24,118.8,1.64,TI,15/08/2015,bribeiro@dias.com,+55 41 0135 0034
+102,103,Ana Luiza Mendes,53,25/06/1996,Feminino,7184.52,55.9,1.65,Engenharia,22/08/2018,aribeiro@santos.com,(041) 9039 7376
+103,104,Nicole da Rosa,32,26/02/1963,Feminino,17855.24,95.2,1.97,TI,23/06/2021,vgomes@alves.com,+55 (061) 7407 6684
+104,105,Raquel Ramos,61,16/04/1998,Outro,10724.81,52.7,1.99,Logística,10/07/2022,costaalice@gmail.com,+55 61 0948-7709
+105,106,Lorena Nascimento,38,25/11/1985,Masculino,2519.65,99.5,1.89,TI,03/12/2024,heitor45@ig.com.br,(041) 6881-9985
+106,107,Leonardo Pereira,21,03/01/1967,Outro,13340.4,119.4,1.85,RH,28/06/2023,knunes@pereira.org,+55 71 1427 3266
+107,108,Dr. Ryan Campos,32,26/07/1972,Feminino,16387.65,86.7,1.85,Financeiro,29/06/2022,tgoncalves@cardoso.com,(031) 7338 2276
+108,109,Yasmin Jesus,20,05/10/1978,Outro,14776.09,92.7,1.74,RH,14/06/2022,kribeiro@ig.com.br,+55 41 7090 3967
+109,110,Sr. Marcelo Almeida,38,09/05/1985,Masculino,7593.5,75.5,1.74,Financeiro,06/02/2016,gabriel94@melo.com,0800-580-4500
+110,111,Lorena Vieira,43,15/04/2005,Outro,2246.14,114.3,1.78,Engenharia,23/04/2024,vitor-gabrielcorreia@yahoo.com.br,31 9477-4815
+111,112,Fernanda Ferreira,35,04/01/1999,Masculino,9343.83,77.1,1.97,Engenharia,17/08/2016,da-cunhajoao-pedro@ig.com.br,+55 (061) 8585 9863
+112,113,Dra. Agatha Fogaça,22,08/09/1959,Feminino,6044.61,104.2,1.86,Marketing,15/12/2017,xcosta@cardoso.br,(041) 6620-7687
+113,114,Sr. Pedro Miguel Cardoso,31,15/03/1984,Outro,17145.3,97.5,1.64,Marketing,13/02/2019,luiz-miguelpires@moraes.br,(021) 5369 1466
+114,115,Helena Araújo,54,23/02/1999,Outro,4042.3,53.7,1.79,Marketing,31/05/2022,caldeiralevi@da.net,(041) 0475-6860
+115,116,Leandro Cavalcanti,63,05/11/1961,Outro,19047.09,94.2,1.77,Engenharia,11/02/2018,fogacaisadora@bol.com.br,+55 (011) 7822-0316
+116,117,Letícia da Luz,38,25/02/1975,Outro,13658.77,73.4,1.95,RH,01/03/2017,mrodrigues@costela.com,81 4102 0170
+117,118,Breno Sales,31,13/08/1969,Feminino,4771.48,73.1,1.7,RH,12/03/2015,ana-laurada-rosa@moura.com,+55 41 6546 6068
+118,119,Calebe da Conceição,59,12/11/1999,Masculino,18787.76,89.1,1.67,RH,16/03/2023,ana-livia62@bol.com.br,41 9525-4606
+119,120,Joaquim Rodrigues,49,15/02/2003,Masculino,7253.51,77.1,1.89,TI,25/12/2021,vicenteda-cunha@monteiro.com,(021) 3084-6568
+120,121,Larissa Correia,43,12/12/1993,Outro,14697.41,67.6,1.57,Marketing,10/09/2021,novaesmaria-clara@yahoo.com.br,(021) 6900-7957
+121,122,Sophia Cardoso,59,12/12/1975,Feminino,9478.83,109.6,1.52,RH,07/05/2024,giovanna70@jesus.br,31 9956-8686
+122,123,Natália das Neves,47,08/01/1976,Masculino,10684.99,117.5,1.98,Marketing,22/03/2022,ana-livia28@bol.com.br,11 3724-2853
+123,124,Maria Julia da Rocha,27,09/06/1966,Masculino,10499.96,92.2,1.54,Marketing,05/10/2018,carolinapereira@ig.com.br,+55 41 8085 8681
+124,125,Larissa Dias,34,12/01/2007,Masculino,10222.16,60.5,1.96,Logística,04/03/2025,lucas76@bol.com.br,81 8091-0155
+125,126,Elisa da Luz,26,10/03/1992,Masculino,4603.56,55.7,1.83,TI,13/02/2021,emanuellyda-cunha@gmail.com,+55 (061) 9563 9007
+126,127,Luiza da Rosa,33,31/10/1994,Masculino,5430.99,96.5,1.87,Logística,27/11/2024,luiz-fernandocunha@hotmail.com,81 6081-9656
+127,128,Luiz Felipe Ramos,65,15/06/1999,Masculino,12788.8,114.2,1.61,Engenharia,29/06/2019,tcavalcanti@gmail.com,+55 11 7662 7624
+128,129,Heloísa Gonçalves,53,24/08/1980,Feminino,15433.27,71.7,1.91,RH,15/07/2021,ana-juliafernandes@uol.com.br,0300-801-8159
+129,130,Theo Viana,52,02/01/1962,Outro,4457.15,95.9,1.64,TI,17/06/2023,caldeirafrancisco@bol.com.br,+55 81 6228-2794
+130,131,Laura Nascimento,34,26/07/1996,Masculino,3256.58,96.3,1.78,Engenharia,19/02/2023,luiz-fernandogomes@costa.br,+55 31 8316 4962
+131,132,Esther Caldeira,65,07/09/2002,Feminino,15908.15,59.0,1.64,Engenharia,08/08/2018,lorenzo02@ribeiro.br,+55 51 4313 2497
+132,133,Caio Cardoso,55,19/02/1966,Feminino,17379.42,99.6,1.55,Logística,09/06/2019,pietra45@yahoo.com.br,(011) 2956 5531
+133,134,Catarina Nascimento,45,04/10/1986,Outro,8117.75,55.9,1.87,RH,24/05/2018,heloisa88@rezende.org,+55 21 0511-0387
+134,135,Davi Lucas Porto,55,05/08/1968,Outro,16178.91,89.1,1.62,Vendas,12/12/2017,jda-luz@freitas.net,(011) 5121 5002
+135,136,Natália Almeida,43,16/04/1982,Masculino,6809.11,95.0,1.53,Marketing,21/05/2024,lucasda-cunha@yahoo.com.br,(081) 1698 2840
+136,137,Juliana Moura,41,30/07/1986,Outro,2046.17,73.0,1.95,Financeiro,30/11/2015,vitor-hugo29@yahoo.com.br,+55 (041) 0625-7981
+137,138,Dra. Ana Sophia Cavalcanti,32,18/12/1964,Outro,15068.92,58.9,1.61,Marketing,02/07/2015,paulolopes@yahoo.com.br,(021) 7465-7682
+138,139,Maria Sophia das Neves,26,25/12/1978,Feminino,17074.57,99.2,1.62,Marketing,11/05/2017,ana-claraviana@ramos.br,84 6979-7108
+139,140,Bruno Novaes,50,19/06/1968,Feminino,12438.62,116.3,1.55,Financeiro,01/07/2017,diasfernando@ig.com.br,(031) 8305 5405
+140,141,Sabrina da Paz,49,08/01/1961,Feminino,13878.93,119.8,1.67,Vendas,27/11/2016,eduarda21@barros.com,11 3509 0860
+141,142,Alana Fogaça,23,19/04/1961,Masculino,17574.69,113.9,1.74,Engenharia,18/01/2020,yasminrezende@barbosa.br,51 3033 9631
+142,143,Alice da Paz,21,04/02/1995,Masculino,10037.85,56.5,1.84,Financeiro,08/12/2018,carvalhoigor@yahoo.com.br,+55 (071) 9216-9723
+143,144,Vinicius Moreira,25,26/04/1996,Outro,10718.14,96.9,1.57,Financeiro,23/11/2021,oaragao@da.com,(081) 1080-6310
+144,145,Gustavo Henrique Viana,27,17/09/1994,Outro,7983.92,85.6,1.98,TI,15/03/2020,augusto15@ig.com.br,61 5971 4088
+145,146,Bianca Duarte,58,11/05/1974,Masculino,15731.71,51.3,1.99,TI,18/10/2022,zvieira@ig.com.br,11 0606 5070
+146,147,Stella Cavalcanti,28,07/08/1997,Masculino,8789.78,71.6,1.58,TI,02/12/2021,jvieira@lima.com,+55 (071) 8829 3965
+147,148,Carlos Eduardo Correia,61,01/07/1972,Feminino,18791.34,116.6,1.83,Engenharia,21/06/2021,ianmoreira@bol.com.br,84 3446 0440
+148,149,João Miguel Novaes,45,28/03/1968,Masculino,17652.83,73.9,1.94,Financeiro,15/11/2021,rezendeana-carolina@ig.com.br,+55 41 1069-7472
+149,150,Davi Lucca Nogueira,56,12/11/1979,Masculino,19653.94,103.6,1.74,RH,18/05/2016,nogueiramariane@hotmail.com,0900 136 0030
+150,151,Alexandre Mendes,22,03/08/1968,Outro,6298.5,63.4,1.83,Financeiro,24/12/2022,caldeiraamanda@oliveira.org,84 6843 4589
+151,152,Sr. Lucca Rezende,42,24/08/1997,Outro,8893.48,120.0,1.88,Engenharia,03/04/2020,luiz-gustavo74@rezende.com,0900-798-7253
+152,153,Thomas Freitas,42,30/04/1974,Feminino,17408.23,60.8,1.64,TI,14/05/2019,salesmaria-clara@gmail.com,+55 (041) 1984 1669
+153,154,Sarah Pereira,56,17/05/2005,Masculino,9393.95,70.7,1.64,Engenharia,24/04/2021,rlima@gmail.com,(011) 7786-1209
+154,155,Luiza Fogaça,47,20/11/1962,Outro,7727.17,105.2,1.53,TI,11/08/2015,amoreira@teixeira.br,(061) 5190 0418
+155,156,Srta. Eduarda Aragão,51,30/07/1990,Masculino,10513.57,85.5,1.88,Engenharia,17/11/2015,joaquimda-cunha@lopes.com,31 4924-5876
+156,157,Dr. Rafael Pinto,34,26/07/1973,Masculino,18441.74,87.8,1.83,Logística,12/01/2017,pietraaraujo@cardoso.br,+55 41 9867 1579
+157,158,Erick Lima,53,14/10/1987,Feminino,8862.16,101.7,1.62,RH,05/08/2016,novaesalice@da.com,21 7161 6928
+158,159,Pedro Miguel Nascimento,18,11/10/2003,Masculino,19791.45,86.9,1.87,TI,29/06/2015,maysamartins@gmail.com,0500 008 2175
+159,160,Bernardo Cardoso,61,17/08/1991,Feminino,16263.09,96.3,1.93,TI,08/09/2019,davi-luiz44@ig.com.br,+55 11 7275-1276
+160,161,João Felipe da Costa,64,20/11/1997,Outro,13736.34,111.3,1.52,Financeiro,24/04/2019,abarbosa@cardoso.com,11 4424-6493
+161,162,Alexia da Conceição,25,30/04/1992,Outro,4737.9,93.3,1.96,Vendas,30/08/2015,vitor-hugoda-costa@castro.net,+55 71 9421-6532
+162,163,Fernanda Rodrigues,61,01/08/1988,Outro,19366.84,91.8,1.71,Vendas,04/03/2016,ana-liviaaraujo@yahoo.com.br,0500-786-8522
+163,164,Evelyn Dias,52,15/02/1962,Outro,4272.43,60.8,1.92,Engenharia,17/07/2019,carolinasilva@moraes.org,+55 71 3785 6495
+164,165,Ana Lopes,35,29/09/1998,Feminino,19376.36,62.7,1.97,Marketing,16/05/2019,nunesryan@pereira.br,0800 314 9773
+165,166,Bernardo Araújo,59,26/08/1963,Feminino,7975.9,98.5,1.52,Marketing,10/12/2017,levi80@ferreira.org,+55 11 3864 3956
+166,167,Isabel Pires,39,05/03/1978,Outro,3806.56,93.7,1.92,Financeiro,17/11/2024,otavio66@hotmail.com,+55 (011) 9406 9797
+167,168,João Gabriel Gomes,25,05/05/1981,Outro,17210.71,113.2,1.89,Engenharia,04/02/2025,barbarapeixoto@bol.com.br,61 1161-7671
+168,169,Lorenzo Almeida,36,12/05/1961,Outro,3794.81,100.5,1.59,RH,12/09/2017,cavalcantiagatha@ig.com.br,(071) 1864-0465
+169,170,Bárbara Mendes,45,12/03/2002,Feminino,18387.95,53.1,1.87,Financeiro,22/07/2019,uaragao@yahoo.com.br,+55 81 4755 9753
+170,171,Bianca Viana,28,05/06/1999,Outro,2276.26,75.5,1.94,TI,08/07/2018,laralopes@ig.com.br,(051) 3046 4473
+171,172,Pedro Miguel da Mota,47,22/09/1981,Feminino,4594.8,100.4,1.64,RH,05/09/2020,martinsstephany@ramos.br,21 9943 3344
+172,173,Maria Correia,18,09/07/1989,Masculino,17676.79,117.9,1.52,Engenharia,08/08/2015,ribeirovinicius@jesus.br,(021) 6096-3966
+173,174,Srta. Nina Cavalcanti,64,31/08/1960,Outro,19459.22,92.7,1.65,TI,06/06/2019,ana-laura26@pinto.br,+55 (071) 3327-6243
+174,175,Dr. Danilo Alves,64,23/08/1969,Feminino,3346.91,102.7,1.8,Logística,05/04/2018,emanuelly65@gmail.com,(071) 7008 4972
+175,176,Amanda Fernandes,34,05/10/1972,Feminino,16067.46,104.9,1.96,Marketing,17/07/2022,joao-felipe72@ig.com.br,+55 (071) 7188 3360
+176,177,Davi Lucas da Mata,50,01/10/1960,Feminino,6770.41,66.4,1.67,Engenharia,07/09/2017,isadora33@ramos.br,(071) 5195 5462
+177,178,Dra. Camila Correia,29,04/05/1995,Masculino,13218.67,66.7,1.73,Logística,28/02/2021,jesusrebeca@gmail.com,+55 51 7636 4571
+178,179,Kamilly Correia,50,20/01/1990,Outro,9154.7,117.6,1.82,Logística,20/12/2018,fcardoso@gmail.com,+55 61 7086 9046
+179,180,Júlia da Costa,24,11/01/1963,Feminino,3445.68,104.9,1.76,TI,11/04/2019,valentina63@bol.com.br,+55 21 1588 7737
+180,181,Yago Azevedo,58,30/12/1998,Outro,7914.18,113.3,1.94,Engenharia,25/03/2016,cauacorreia@bol.com.br,(011) 0767-6383
+181,182,Ana Laura da Rocha,37,07/04/1994,Feminino,14138.43,63.6,1.57,TI,18/11/2024,nicolasrodrigues@nunes.br,(041) 4381 4355
+182,183,Nathan Araújo,58,29/06/1985,Outro,11605.2,97.5,1.75,Engenharia,05/12/2021,ucampos@barbosa.br,(041) 1545 0086
+183,184,Mariana Alves,50,11/03/1994,Masculino,19174.51,89.9,1.64,Logística,13/02/2021,marcela14@hotmail.com,+55 (081) 9133 7196
+184,185,Noah Castro,56,21/07/1960,Feminino,13282.39,80.8,1.9,Logística,24/01/2025,ana-luiza34@farias.org,0300 506 7717
+185,186,Gustavo Farias,30,09/03/1990,Feminino,17973.9,103.9,1.67,Logística,24/05/2017,otaviodias@yahoo.com.br,31 8262-4431
+186,187,Dr. João Pedro Castro,27,06/12/1998,Masculino,10783.05,104.5,1.87,Vendas,19/08/2018,diashelena@pereira.com,71 5517 8508
+187,188,Igor da Costa,41,15/01/1980,Outro,11738.29,85.2,1.82,Marketing,23/09/2017,enrico57@ig.com.br,(031) 2470-9660
+188,189,Cauê Fogaça,28,14/02/2001,Feminino,13114.27,79.3,1.86,Financeiro,02/04/2021,raquel48@pires.br,51 6459 9029
+189,190,Guilherme Caldeira,52,03/11/1985,Masculino,6225.86,61.3,1.51,TI,01/03/2024,kevin28@da.br,(031) 6451-1377
+190,191,Rodrigo Lopes,51,27/11/1963,Feminino,14319.19,64.0,1.67,TI,05/06/2019,pedro-lucascaldeira@cardoso.com,0500-868-5466
+191,192,Anthony Cunha,18,15/06/1966,Feminino,7172.82,92.3,1.65,Marketing,06/02/2020,dsilveira@gomes.br,+55 11 5067-7226
+192,193,Srta. Júlia Pinto,56,07/07/1963,Feminino,6094.75,111.1,1.84,Vendas,10/11/2016,ada-mota@ig.com.br,51 9165 4646
+193,194,Ana Lívia da Cruz,38,29/01/1969,Outro,3626.83,53.7,1.6,Financeiro,24/07/2019,lrezende@gmail.com,41 5641-4209
+194,195,João Lucas Gonçalves,49,09/11/1984,Masculino,19610.08,83.6,1.81,Engenharia,26/10/2022,bruno01@hotmail.com,(081) 1976-1861
+195,196,Gabrielly Rocha,19,03/05/1959,Masculino,15686.65,76.0,1.82,TI,17/01/2022,ccardoso@ig.com.br,0300 866 2993
+196,197,Kevin Teixeira,25,11/03/1981,Masculino,14670.03,115.4,1.7,Financeiro,13/03/2017,rodriguessabrina@aragao.br,+55 (081) 5572-1436
+197,198,Davi Lucas Rocha,41,10/08/2001,Masculino,3809.13,99.8,1.71,Engenharia,09/06/2016,unovaes@bol.com.br,+55 41 5097-8663
+198,199,Maitê Almeida,37,23/02/1978,Feminino,4994.57,86.1,1.66,TI,19/11/2024,leandroporto@yahoo.com.br,(084) 4844-0490
+199,200,Ana Julia Cardoso,33,02/12/1975,Outro,7390.39,58.7,1.7,TI,08/06/2023,das-neveskaique@hotmail.com,61 9593 0105
+200,201,Paulo Mendes,21,17/06/1967,Masculino,2521.05,55.9,1.55,Vendas,28/05/2015,costelaclarice@ribeiro.br,84 1388-7906
+201,202,Ana Sophia Teixeira,33,23/09/1976,Outro,7838.74,61.2,1.99,Vendas,31/01/2022,erick45@uol.com.br,+55 61 9791 1738
+202,203,Murilo da Cruz,54,01/01/2000,Masculino,3010.15,81.5,1.74,Vendas,20/10/2024,ribeiroluiz-felipe@uol.com.br,81 5293 3574
+203,204,Alícia Fogaça,23,31/05/1980,Masculino,8452.34,85.9,1.97,Engenharia,31/05/2023,camposbruno@yahoo.com.br,+55 71 2893 9881
+204,205,Brenda Araújo,23,05/10/1979,Feminino,9752.36,108.2,1.5,Marketing,01/11/2021,marianasilva@moraes.br,+55 (061) 5604-1293
+205,206,Caio Castro,64,29/01/2001,Feminino,6395.55,56.4,1.69,Logística,24/03/2017,lara70@bol.com.br,11 1172 9935
+206,207,Isabella das Neves,49,31/03/1986,Feminino,9416.93,113.7,1.72,Financeiro,11/03/2025,enzoazevedo@gmail.com,0800-709-7081
+207,208,Luiz Henrique Azevedo,22,26/01/1993,Outro,14272.41,107.2,1.63,TI,22/09/2017,marinanunes@mendes.org,61 1463 0108
+208,209,Sra. Maysa Lopes,52,29/11/2006,Feminino,5241.02,111.9,1.66,Engenharia,31/10/2024,eda-luz@bol.com.br,51 5719 5978
+209,210,Luiz Henrique das Neves,26,05/11/2003,Feminino,5151.25,115.1,1.79,TI,07/02/2021,ifogaca@da.com,+55 81 3185 2072
+210,211,Natália Moura,26,08/09/1981,Masculino,12970.85,79.0,1.79,Logística,10/11/2016,dcunha@uol.com.br,+55 (031) 3695-2421
+211,212,Emanuel Jesus,60,12/10/1983,Masculino,8885.8,77.8,1.63,Logística,29/06/2022,marina45@ig.com.br,+55 (031) 1768 3983
+212,213,Camila da Cruz,48,29/12/1985,Feminino,14296.42,76.2,1.68,Engenharia,10/07/2024,emilly25@ig.com.br,+55 (061) 1401-8644
+213,214,Davi Ribeiro,53,06/10/1961,Feminino,10958.01,77.0,1.62,TI,24/01/2018,claricerocha@mendes.org,+55 (011) 9041-1294
+214,215,Srta. Eduarda Melo,28,08/04/1976,Outro,12496.83,55.7,1.83,RH,11/01/2022,abarros@bol.com.br,+55 81 1086-9319
+215,216,Cecília Mendes,34,16/01/1998,Outro,6179.39,65.7,1.73,Marketing,24/01/2020,xramos@oliveira.br,0900 559 9751
+216,217,Stella Barros,51,01/07/1964,Masculino,13482.28,72.3,1.58,Financeiro,10/05/2015,mouraelisa@uol.com.br,41 0647-5953
+217,218,Vitor Hugo Caldeira,56,05/01/2002,Outro,10272.27,56.9,1.84,Marketing,22/05/2015,da-rochalais@pereira.org,(071) 3584 6133
+218,219,Srta. Maitê Farias,45,28/05/1990,Feminino,14003.13,100.0,1.96,Marketing,14/11/2017,marinanascimento@cardoso.br,71 3256-5473
+219,220,Leonardo Pires,31,17/02/1973,Feminino,18180.35,73.5,1.94,Financeiro,24/01/2025,emoura@dias.com,+55 (084) 0826 0864
+220,221,Heitor Pinto,52,13/04/1974,Masculino,10374.56,60.2,1.88,Vendas,09/03/2018,jesussofia@gmail.com,71 5587-8114
+221,222,Maysa Castro,64,25/03/1979,Feminino,7177.37,52.7,1.85,Logística,23/11/2024,ypinto@moreira.com,+55 (011) 3898-9685
+222,223,Dr. João Gabriel Lopes,62,13/02/1965,Feminino,11838.77,114.2,1.82,Marketing,12/09/2021,diogopereira@barbosa.br,+55 61 3259-5024
+223,224,Emanuel das Neves,30,21/03/1979,Feminino,3329.51,83.1,1.97,RH,14/11/2021,antonio89@das.br,(031) 0523 5380
+224,225,João Moraes,63,03/12/1970,Feminino,19014.24,108.2,1.68,Vendas,17/07/2016,acarvalho@nascimento.br,0900-543-5315
+225,226,Nina Dias,37,19/04/1974,Outro,19777.73,103.1,1.61,Engenharia,20/08/2022,camposmaria-luiza@cardoso.com,(084) 0236-8620
+226,227,Luiz Felipe Silva,43,12/05/1995,Outro,7384.78,82.8,1.98,Vendas,22/10/2023,luiz-fernando30@aragao.net,+55 81 9333-9426
+227,228,Ana Julia das Neves,60,04/08/1994,Outro,19316.52,93.1,1.74,Financeiro,16/10/2021,wda-costa@nascimento.com,0500 504 9688
+228,229,Luiz Miguel da Rocha,59,01/11/2006,Outro,14425.64,113.4,1.73,Engenharia,09/02/2025,vitor-gabrielduarte@pires.com,0900 545 4178
+229,230,Caio Duarte,41,29/08/1996,Outro,10223.04,51.3,1.99,Logística,04/05/2019,acavalcanti@gmail.com,41 4433 4780
+230,231,Dra. Bianca Campos,46,16/05/1982,Masculino,7438.19,65.1,1.69,TI,03/04/2015,rda-mota@lima.org,11 2306-7653
+231,232,Marcelo da Mata,51,01/12/1959,Feminino,19988.72,60.5,1.85,Logística,08/08/2016,daniel54@bol.com.br,0800 934 8753
+232,233,Lucas Gabriel Ferreira,46,08/01/2002,Masculino,17360.04,115.8,1.96,Vendas,20/10/2023,joao-gabrielcampos@hotmail.com,+55 84 9411-4629
+233,234,Nicolas Gonçalves,25,13/07/1985,Feminino,3919.76,92.6,1.88,RH,04/11/2023,stephany64@yahoo.com.br,61 8415 7036
+234,235,Evelyn Mendes,33,22/07/1985,Feminino,8864.56,79.6,1.9,Logística,25/06/2021,frocha@gmail.com,21 6880-7326
+235,236,Isaac Carvalho,32,04/02/1987,Feminino,8461.26,104.3,1.91,Logística,16/07/2019,juliana92@da.br,(051) 5550 7510
+236,237,Ana Sophia Nogueira,22,24/09/1988,Masculino,7325.7,66.6,1.88,Logística,10/11/2021,hfogaca@bol.com.br,+55 (061) 6567-5785
+237,238,Lorena Peixoto,39,07/11/1966,Feminino,14587.02,58.5,1.84,Logística,16/02/2023,isabellaalmeida@caldeira.br,0500-271-8296
+238,239,Evelyn Sales,19,26/11/1979,Feminino,2394.91,66.7,1.8,Engenharia,16/03/2022,lucas-gabrielcaldeira@caldeira.com,71 5991 7385
+239,240,Sr. Miguel da Paz,55,21/02/1961,Outro,16940.68,94.7,1.89,Vendas,07/02/2020,nathansales@pires.com,(081) 0284 0017
+240,241,Raquel Rezende,53,02/04/1990,Outro,9124.5,93.6,1.76,Engenharia,14/06/2020,hsales@bol.com.br,41 5047-6007
+241,242,Caroline Rocha,32,24/12/1993,Feminino,2145.76,54.4,1.76,Financeiro,13/05/2022,qcavalcanti@hotmail.com,+55 41 4157-8691
+242,243,Cauê Duarte,55,27/08/1970,Outro,17571.21,108.6,1.68,Vendas,09/04/2018,alexia48@ig.com.br,31 7039 6377
+243,244,Caio Peixoto,32,19/05/1960,Masculino,16009.61,85.0,1.96,TI,14/11/2021,sdias@sales.com,41 0240 2483
+244,245,Sra. Maria Vitória Lima,18,29/02/2000,Feminino,19524.85,87.5,1.56,Financeiro,10/07/2024,marianemelo@silveira.com,+55 41 7411 9067
+245,246,Yago Almeida,22,25/08/1995,Masculino,18391.11,94.2,1.91,TI,25/01/2017,martinspedro-henrique@rocha.br,(011) 2430 2482
+246,247,Guilherme Moraes,63,11/06/1998,Outro,15413.1,90.3,1.95,Vendas,08/06/2016,sabrinapeixoto@hotmail.com,11 4772 7449
+247,248,Lorenzo Gonçalves,58,09/09/1966,Outro,16991.1,100.3,1.6,Financeiro,25/10/2023,nicolemonteiro@gmail.com,+55 21 3477-4434
+248,249,Lucas Gabriel Melo,21,07/08/1990,Masculino,18252.83,70.4,1.77,Vendas,10/07/2019,vianayasmin@gmail.com,0800 569 3375
+249,250,Sr. Matheus Novaes,32,09/10/2004,Feminino,15963.34,50.1,1.58,Engenharia,15/02/2022,lsantos@gmail.com,(031) 0893-8267
+250,251,Otávio da Cunha,22,29/10/1992,Outro,6142.13,74.7,1.93,Logística,08/11/2020,cardosocarlos-eduardo@almeida.br,11 1287-0097
+251,252,Laís Porto,20,05/07/1961,Outro,16434.78,89.9,1.72,Engenharia,30/08/2023,santosemanuel@uol.com.br,+55 81 8738 8298
+252,253,Gabriela Teixeira,39,26/11/1989,Outro,5942.08,63.1,1.84,RH,17/02/2017,fnascimento@gmail.com,+55 71 9678-1174
+253,254,Cauê Fogaça,22,17/08/1982,Masculino,5422.38,96.8,1.86,Engenharia,10/06/2022,silveiraagatha@barbosa.com,71 5323 7956
+254,255,Larissa Correia,50,11/07/1991,Masculino,6511.28,86.6,1.74,Marketing,02/02/2025,carlos-eduardo02@costela.br,11 2272-8186
+255,256,João Pedro Alves,33,22/04/2002,Outro,15600.39,75.2,1.95,Engenharia,04/09/2022,freitascaua@uol.com.br,0900-919-6749
+256,257,Lucas Gonçalves,35,14/04/2002,Feminino,15814.47,116.7,1.72,Marketing,03/05/2017,davi-luiz15@nogueira.org,(081) 9395-3960
+257,258,Luiz Gustavo Almeida,60,06/09/1978,Masculino,14255.39,88.1,1.53,Engenharia,31/01/2016,portoana-sophia@hotmail.com,+55 81 8805-6083
+258,259,Ana Sophia Rodrigues,49,14/07/1984,Feminino,4462.03,105.0,1.57,Marketing,06/04/2022,joaquim02@hotmail.com,11 3162 6884
+259,260,Luiz Gustavo Lopes,31,11/06/1959,Masculino,3748.95,85.5,1.71,Marketing,01/10/2019,fernandanunes@hotmail.com,(041) 4915 8326
+260,261,Yasmin Martins,52,12/06/1974,Masculino,13294.25,51.4,1.78,Logística,15/04/2015,santosrafaela@rezende.net,61 7989 5685
+261,262,Yasmin Correia,26,02/10/1992,Feminino,2709.61,111.1,1.78,Vendas,17/01/2024,elisada-rosa@uol.com.br,+55 (031) 2451 6658
+262,263,Maitê da Conceição,64,06/04/2005,Feminino,16194.99,53.0,1.84,Engenharia,03/10/2020,emanuel79@jesus.br,61 0847-1933
+263,264,Letícia Moreira,54,01/02/1999,Feminino,2600.56,77.1,1.65,Marketing,18/06/2024,correianathan@goncalves.br,+55 51 1411 6916
+264,265,Carolina Jesus,54,10/04/2004,Masculino,8567.5,76.1,1.51,RH,24/05/2021,luiz-miguelnogueira@da.br,+55 81 2108-3142
+265,266,Julia Melo,48,30/09/1974,Feminino,4365.41,102.3,1.63,Logística,09/12/2024,eduardo52@gmail.com,+55 (081) 6355 2603
+266,267,Alexia Barros,33,04/11/1964,Feminino,18373.3,75.0,1.5,TI,26/01/2025,arthur78@uol.com.br,0900 801 4003
+267,268,Gabriel da Rosa,48,17/11/1982,Feminino,7880.94,54.7,1.61,Vendas,12/12/2024,maria-julia93@nogueira.net,+55 (011) 1279 3981
+268,269,Pedro Moraes,44,01/11/1970,Feminino,9479.06,66.9,1.54,Logística,14/07/2020,davi56@bol.com.br,+55 11 8792 3935
+269,270,Emilly Lopes,30,28/03/1995,Feminino,5614.31,96.0,1.71,Marketing,13/02/2018,rbarbosa@gmail.com,+55 51 9813 9814
+270,271,João Gabriel Santos,24,14/09/1989,Feminino,16157.23,57.3,1.85,Marketing,25/09/2016,agathacarvalho@sales.com,84 4809-6449
+271,272,Laura da Mota,24,02/04/1981,Feminino,17776.29,90.7,1.77,Vendas,11/10/2023,pedro-lucas63@gmail.com,+55 11 5264 5164
+272,273,Alana Teixeira,60,15/03/1996,Masculino,8585.44,103.0,1.53,RH,24/06/2022,luiz-felipe49@bol.com.br,+55 31 5227-7515
+273,274,Cauã Moreira,45,23/09/1973,Feminino,11032.31,59.3,1.95,RH,29/12/2017,hcavalcanti@lopes.br,+55 41 5540 2624
+274,275,Ana Lívia Peixoto,40,08/05/1993,Masculino,6905.49,74.7,1.99,Logística,03/01/2020,maria-fernandada-luz@gmail.com,+55 (061) 4675-6815
+275,276,Ana Julia Teixeira,45,14/06/1966,Outro,4961.8,73.7,1.74,Financeiro,07/06/2022,isabellamoura@yahoo.com.br,(071) 0376-0401
+276,277,Gustavo Henrique Barros,44,06/01/1971,Outro,18452.88,95.0,1.64,Vendas,26/10/2018,enzo-gabriel89@cavalcanti.com,+55 (081) 1554-4822
+277,278,Igor Castro,47,25/01/2005,Masculino,18995.38,108.1,1.59,Vendas,13/11/2022,ana-juliaazevedo@bol.com.br,+55 61 8836-2326
+278,279,Vicente Ribeiro,64,27/02/1987,Feminino,19412.91,97.9,1.57,TI,29/01/2021,nunesolivia@cardoso.br,41 8393 5128
+279,280,Cauê Monteiro,21,03/05/1959,Masculino,7312.55,118.7,1.82,Financeiro,29/04/2016,lorenzo38@yahoo.com.br,(061) 1605 7031
+280,281,Enzo Gabriel Gomes,61,04/08/1991,Outro,17667.15,83.5,1.86,Vendas,14/02/2017,cavalcantimaria-luiza@yahoo.com.br,(051) 6757 9032
+281,282,Mariana da Mata,59,16/03/1964,Masculino,16476.19,62.8,1.98,Marketing,09/03/2018,hjesus@gmail.com,+55 81 8666 4943
+282,283,Breno Fernandes,59,01/08/1961,Outro,10429.96,59.4,1.69,RH,04/03/2019,sophie75@cardoso.br,(031) 8646 6830
+283,284,Nina Pereira,24,26/11/1967,Masculino,3355.39,100.1,1.95,Marketing,08/03/2023,ana-clara57@hotmail.com,+55 (084) 7688 3911
+284,285,Natália Rezende,21,23/02/2004,Masculino,15574.73,116.1,1.72,Vendas,07/09/2020,cda-costa@uol.com.br,(081) 9037 0626
+285,286,Letícia Vieira,43,06/10/1980,Masculino,6061.06,52.6,1.96,Vendas,16/02/2018,jesusdavi-lucas@ig.com.br,(041) 9584 5328
+286,287,Thales da Mata,64,28/06/1965,Masculino,14173.83,64.1,1.69,Vendas,16/04/2023,sofianunes@bol.com.br,+55 31 9489-4194
+287,288,Murilo Silveira,39,09/04/1988,Masculino,14139.31,105.4,1.54,Engenharia,07/11/2016,usales@uol.com.br,11 1304 0081
+288,289,Diogo Cavalcanti,24,24/09/1962,Outro,9153.41,112.0,1.98,Logística,27/11/2024,estheralves@ig.com.br,(071) 8573-6163
+289,290,Theo Farias,33,07/05/1989,Masculino,17223.4,72.1,1.94,TI,19/02/2020,castroana-carolina@uol.com.br,+55 21 5169-1078
+290,291,Pietra Almeida,30,20/07/2000,Masculino,12031.63,71.7,1.57,Logística,13/11/2020,luiz-miguelda-paz@uol.com.br,+55 84 3565-2485
+291,292,Paulo Freitas,30,06/11/2003,Masculino,3625.45,77.9,1.93,Engenharia,31/05/2019,luiz-otavio40@pires.br,+55 (051) 3111-2273
+292,293,Alana Nogueira,52,29/10/1998,Feminino,9102.34,107.1,1.56,RH,18/12/2017,martinssamuel@yahoo.com.br,+55 (084) 3018 8476
+293,294,Heloísa Vieira,46,11/05/1968,Outro,6760.25,83.1,2.0,RH,13/08/2019,limaisabel@gmail.com,+55 61 8890 4284
+294,295,Sr. João Caldeira,26,21/12/1985,Masculino,4224.6,52.6,1.7,RH,19/12/2019,moreiraleandro@yahoo.com.br,(061) 3492 7745
+295,296,Renan Pires,45,02/03/1994,Outro,8634.54,95.3,1.56,TI,18/11/2023,marianejesus@uol.com.br,41 6972 6543
+296,297,Yuri Rodrigues,29,13/08/1970,Masculino,15482.21,70.0,1.99,Financeiro,12/11/2024,danielcunha@costa.com,(051) 4031-7637
+297,298,Sofia Almeida,35,26/12/1997,Feminino,6718.91,110.3,1.92,Marketing,31/10/2015,luiz-henriquefernandes@correia.br,(041) 1904 9529
+298,299,Juan Souza,47,09/03/2004,Outro,8858.46,53.3,1.88,Vendas,22/01/2017,ddas-neves@bol.com.br,+55 (084) 7939 6392
+299,300,Igor da Conceição,33,22/02/1986,Feminino,13493.89,95.9,1.99,Marketing,15/06/2023,caldeiradanilo@rezende.com,+55 21 7314 4805
+300,301,Sophie Peixoto,22,11/01/1968,Feminino,8686.53,69.1,1.73,Marketing,21/02/2018,svieira@ig.com.br,+55 11 7735-9189
+301,302,Srta. Ana Vitória Oliveira,46,16/10/1963,Masculino,14147.06,106.0,1.86,Marketing,24/02/2021,aragaoeduarda@hotmail.com,11 3926 2578
+302,303,Sr. Caio Cardoso,53,11/06/1973,Outro,10486.58,80.6,1.71,Vendas,15/09/2021,oliveirajulia@gmail.com,0300 402 5713
+303,304,Lucas Araújo,24,01/03/1961,Outro,13151.84,78.0,1.69,Marketing,08/01/2021,kevin13@pires.net,+55 (071) 9326 7733
+304,305,Luiz Miguel Silva,21,25/02/1993,Outro,18977.04,80.8,1.61,Financeiro,27/10/2023,oda-mata@fernandes.com,+55 (071) 1342 9881
+305,306,Valentina Cardoso,59,26/02/1968,Outro,7904.11,117.0,1.73,Engenharia,30/09/2020,jrocha@da.com,+55 (031) 9116 2396
+306,307,Ana Beatriz da Cruz,52,25/03/1986,Masculino,12981.48,73.7,1.58,TI,11/09/2016,barroshenrique@gmail.com,(081) 0898-3381
+307,308,Maria Alice Ramos,18,10/11/1991,Masculino,13657.74,63.1,1.59,Engenharia,29/07/2020,pereiraleandro@ig.com.br,0500-317-2175
+308,309,Thiago Vieira,23,24/07/1960,Feminino,13437.27,98.4,1.94,Engenharia,07/08/2022,caroline81@bol.com.br,71 0963-5704
+309,310,Lívia Barbosa,33,10/07/1994,Masculino,10356.82,75.7,1.88,Logística,02/12/2020,da-luzgabriel@lima.br,0800-426-8146
+310,311,Dr. Luiz Otávio Viana,28,26/03/1981,Outro,14619.39,105.8,1.52,Vendas,07/08/2019,otavio40@aragao.br,+55 84 3215-7224
+311,312,Catarina Moraes,44,26/03/1997,Masculino,13686.31,68.7,1.83,Marketing,30/06/2023,isadora62@lima.com,+55 (084) 6706-1252
+312,313,Henrique Castro,49,11/10/1978,Feminino,4100.17,55.8,1.81,Vendas,30/08/2023,npereira@bol.com.br,+55 21 8787-1522
+313,314,Benjamin Barbosa,48,20/03/1967,Outro,2816.24,79.7,1.97,Marketing,10/01/2025,vianavitor-hugo@hotmail.com,+55 84 9361-0444
+314,315,Nina Monteiro,31,08/09/1994,Outro,2669.82,80.1,1.94,Financeiro,28/09/2016,framos@ig.com.br,+55 (041) 0268 1987
+315,316,Ana Carolina Moreira,43,26/06/1960,Feminino,19926.69,119.7,1.62,TI,05/11/2024,da-pazheloisa@yahoo.com.br,+55 51 6896 9123
+316,317,Dr. Rafael Teixeira,21,03/11/1961,Feminino,4090.17,62.6,1.53,RH,03/12/2016,raquelcavalcanti@cavalcanti.br,+55 61 6149 0373
+317,318,Bruna Costela,28,08/08/1983,Outro,6226.4,70.6,1.8,Engenharia,25/11/2016,larissa12@bol.com.br,31 9922-1034
+318,319,Gabrielly Mendes,42,05/06/1975,Masculino,11675.84,57.2,1.72,RH,08/04/2016,epeixoto@hotmail.com,51 3425 1292
+319,320,Arthur da Rosa,18,30/06/2000,Masculino,8995.62,73.0,1.84,TI,22/12/2017,anacavalcanti@rocha.br,0900 799 4109
+320,321,Henrique Silva,42,23/08/2004,Outro,8678.21,70.7,1.94,Engenharia,06/11/2017,maria-vitoria20@bol.com.br,+55 41 6030 3004
+321,322,Vitor Hugo Jesus,34,15/03/2000,Outro,19088.85,81.2,1.62,RH,01/11/2015,kaique64@porto.com,+55 (051) 1411-7756
+322,323,Dr. Igor Duarte,47,23/07/1959,Outro,14536.71,100.2,1.52,RH,27/05/2024,davi-lucasda-mata@ig.com.br,(021) 6598 2588
+323,324,Augusto Lima,36,27/06/1987,Masculino,11723.46,61.7,1.72,Logística,24/12/2017,vicente55@yahoo.com.br,(011) 8392-1661
+324,325,Lucas Almeida,45,08/05/2005,Masculino,12572.13,81.1,1.77,Vendas,04/08/2023,piresana-carolina@yahoo.com.br,71 6466 0981
+325,326,Bryan da Cruz,62,31/03/1988,Outro,15078.78,81.3,1.88,Financeiro,15/01/2020,maria-aliceda-mata@cardoso.org,(021) 1365-2571
+326,327,Nicole Martins,64,09/12/1964,Feminino,17937.45,100.9,1.89,TI,17/06/2019,ana-juliamartins@campos.org,(071) 6657 5881
+327,328,Kamilly Nunes,53,12/06/1960,Outro,13788.59,113.8,1.57,TI,11/04/2020,araujorodrigo@yahoo.com.br,0300 755 5876
+328,329,Dr. Yuri Nascimento,60,02/01/1986,Outro,17006.48,93.0,2.0,TI,27/08/2018,edas-neves@da.com,84 6407 6675
+329,330,Isabelly Pinto,63,29/08/2002,Masculino,13081.74,80.4,1.62,Engenharia,14/06/2021,da-rochaenzo-gabriel@da.com,31 7039 4996
+330,331,Sr. Thiago Oliveira,49,04/09/1974,Outro,18902.96,94.8,1.96,Logística,14/02/2024,fogacarafael@ig.com.br,+55 41 5486 8716
+331,332,Pedro Lucas Rezende,27,02/12/1990,Masculino,7035.32,105.4,1.79,Financeiro,21/06/2021,maria-alice74@bol.com.br,+55 (081) 5612-3291
+332,333,Lucas Sales,30,07/08/1996,Feminino,14425.05,54.0,1.79,Marketing,20/01/2019,omoura@ig.com.br,61 8594 1932
+333,334,Enzo Sales,36,15/11/1967,Outro,5910.85,97.0,1.89,Engenharia,28/09/2015,davi-lucassantos@uol.com.br,+55 (061) 5119-9454
+334,335,Breno Fogaça,31,19/10/1996,Feminino,10004.53,78.4,1.91,TI,01/01/2024,eda-mata@uol.com.br,0500 306 2294
+335,336,Maitê Caldeira,21,30/11/1969,Outro,6250.03,85.9,1.62,Engenharia,22/11/2019,cfarias@hotmail.com,61 8659-6121
+336,337,Ana Melo,55,22/04/1974,Feminino,8528.35,102.5,1.94,RH,05/11/2019,ribeirosarah@lima.br,+55 11 3094 0162
+337,338,Sra. Isabel Correia,65,01/01/1986,Masculino,19656.7,61.2,1.99,Engenharia,24/06/2021,renanfreitas@hotmail.com,0900-103-9385
+338,339,Amanda da Mata,52,02/11/1962,Outro,8612.03,52.2,1.76,Vendas,02/07/2017,barrosyasmin@azevedo.br,(031) 2575 8488
+339,340,Ryan Duarte,21,24/07/1979,Outro,18230.53,109.4,1.71,Vendas,30/07/2018,bcaldeira@ferreira.com,0500-765-8658
+340,341,Joaquim Fernandes,65,16/11/1974,Feminino,13606.88,97.5,1.64,Engenharia,01/12/2021,jalmeida@duarte.br,(031) 0870-6133
+341,342,Eloah da Conceição,38,14/01/1969,Masculino,3089.9,80.7,1.78,TI,23/09/2017,levivieira@yahoo.com.br,41 5608 9414
+342,343,Dr. Luiz Felipe da Cunha,21,21/12/1959,Feminino,6965.87,58.8,1.8,RH,16/01/2021,emilly34@silva.br,0300-613-8121
+343,344,Gustavo Henrique Martins,21,25/08/1978,Feminino,19427.72,66.5,1.87,TI,19/01/2017,dnunes@yahoo.com.br,(011) 9626 7605
+344,345,Dra. Lavínia Rezende,55,28/01/1987,Masculino,19082.19,95.2,1.59,RH,19/12/2024,pmoreira@gomes.com,(021) 2238-3266
+345,346,Ana Clara Dias,48,22/10/1992,Feminino,16835.44,75.4,1.84,Logística,25/12/2023,helena72@hotmail.com,+55 21 7498-8920
+346,347,Diego Nunes,50,01/10/2000,Feminino,3650.12,116.5,1.78,Vendas,13/09/2024,joanafernandes@gmail.com,+55 (084) 9028 3548
+347,348,Renan Nogueira,51,12/11/1964,Outro,5817.9,52.3,1.52,RH,13/07/2020,fernandesbianca@ramos.org,+55 84 2871-0604
+348,349,Beatriz Ferreira,28,01/07/1978,Feminino,13510.87,60.7,1.67,RH,22/12/2016,framos@yahoo.com.br,+55 11 2687 6523
+349,350,Marcela Cavalcanti,21,16/01/2007,Outro,19479.68,81.5,1.82,Logística,11/09/2015,fernandacunha@da.com,(084) 5120-9049
+350,351,Sophia Santos,50,13/02/1989,Masculino,2910.41,76.0,1.69,TI,19/11/2016,caldeiraisabella@melo.br,+55 (084) 3266-5938
+351,352,Clara Rezende,23,05/04/1961,Feminino,8003.16,81.1,1.76,Vendas,09/10/2016,moreiraolivia@gmail.com,(011) 0357 1757
+352,353,Rodrigo da Costa,29,22/08/1984,Masculino,19798.78,55.4,1.85,RH,07/06/2015,cauecostela@yahoo.com.br,+55 (051) 1599 9194
+353,354,Maria Fernanda Caldeira,22,06/03/1993,Outro,16165.61,59.6,1.7,Vendas,07/04/2022,nicolas59@da.br,(051) 7819 9938
+354,355,Lavínia da Rocha,56,24/12/1966,Outro,5693.7,75.7,1.65,Logística,03/05/2024,lais55@martins.com,0300-834-3211
+355,356,Alícia Pinto,22,12/03/1985,Outro,16936.72,72.0,1.59,Financeiro,01/05/2018,ian23@ig.com.br,61 2862 2838
+356,357,Joana Barros,61,20/12/1967,Feminino,11975.74,69.5,1.77,Vendas,21/03/2018,ofernandes@ig.com.br,+55 (084) 9371-9449
+357,358,Maria Alice da Mata,33,02/04/1968,Outro,12554.9,117.2,1.62,Financeiro,04/03/2016,lucasrezende@gmail.com,0500 675 8200
+358,359,Carolina Barbosa,43,24/05/1970,Outro,16634.95,51.8,1.61,Marketing,30/10/2020,paulonovaes@bol.com.br,61 4423-4807
+359,360,Lucca Almeida,25,16/01/1997,Feminino,6193.98,63.0,1.93,Financeiro,03/03/2016,danielaragao@gmail.com,21 6660-0623
+360,361,Dra. Brenda Correia,54,09/05/1982,Feminino,15938.63,86.2,1.57,Marketing,27/11/2023,vitor-hugocorreia@aragao.net,61 8381 0803
+361,362,Caio Barros,33,16/02/2006,Feminino,16195.59,113.9,1.73,Financeiro,16/08/2023,hpeixoto@yahoo.com.br,+55 21 4642 6888
+362,363,Pedro Miguel Barros,55,28/05/1959,Outro,12727.67,58.2,1.53,TI,11/01/2018,almeidacarlos-eduardo@yahoo.com.br,(071) 4542 6673
+363,364,Ana Júlia Gonçalves,56,11/09/1964,Outro,6990.95,104.2,1.71,Marketing,04/04/2021,enrico50@porto.com,51 7787 7779
+364,365,Maria Vitória Fogaça,20,21/11/1979,Feminino,19712.51,99.3,1.71,Engenharia,09/01/2024,fogacabreno@yahoo.com.br,+55 (031) 5865 7715
+365,366,Pietra Cunha,57,17/03/1970,Feminino,19775.49,65.0,1.76,Engenharia,30/01/2023,jgoncalves@bol.com.br,(041) 6626-4795
+366,367,Laura Campos,23,09/11/1979,Masculino,11723.88,92.8,1.69,Financeiro,01/03/2022,usilveira@ig.com.br,61 0010-3023
+367,368,Rodrigo Ribeiro,44,13/10/1978,Masculino,16373.25,98.6,1.63,Logística,23/11/2016,zda-rosa@freitas.br,+55 (041) 0129-3354
+368,369,Joaquim Rocha,60,18/09/1999,Feminino,3978.67,119.9,1.67,Engenharia,27/11/2023,wduarte@porto.net,11 1067-7161
+369,370,Pietro Teixeira,55,20/06/2001,Feminino,17596.06,64.0,1.54,Vendas,21/07/2020,mbarros@costela.br,+55 21 2041-1405
+370,371,Ana Júlia Silveira,54,03/01/2006,Masculino,4372.46,59.5,1.72,Financeiro,04/08/2018,zjesus@melo.org,0500 435 8064
+371,372,Mirella Martins,51,24/11/1990,Feminino,8448.36,55.2,1.69,Financeiro,09/08/2018,tfogaca@jesus.br,+55 61 9841 1254
+372,373,Pietro Fogaça,38,30/05/1966,Outro,16191.77,62.1,1.77,Vendas,22/05/2015,yasmin48@bol.com.br,(021) 2514-2970
+373,374,Augusto Pereira,34,20/03/1975,Outro,12599.35,99.9,1.91,Vendas,16/01/2021,diasgabriela@rezende.org,0300 114 1362
+374,375,Dr. Diego Carvalho,31,16/11/1980,Outro,2284.06,119.8,1.53,Engenharia,21/05/2024,maria-fernanda83@cunha.net,+55 (051) 1357 4748
+375,376,Pedro Lucas Sales,60,30/10/1966,Feminino,6776.62,106.7,1.69,Engenharia,14/09/2022,arthurda-rocha@ig.com.br,31 7954-0779
+376,377,Vitor Cavalcanti,63,27/09/1970,Feminino,4281.65,117.7,1.8,RH,09/06/2016,diascaua@yahoo.com.br,0300 961 5472
+377,378,Helena Jesus,38,23/06/1972,Masculino,9577.29,119.1,1.52,Vendas,06/07/2020,nicole73@yahoo.com.br,+55 (011) 5779-7464
+378,379,Carolina Rodrigues,33,04/01/1982,Feminino,4045.69,96.7,1.54,Marketing,06/11/2023,alice84@uol.com.br,(061) 5100 1604
+379,380,Ana Sophia Araújo,34,19/12/1967,Feminino,3144.04,99.7,1.9,Financeiro,16/11/2017,rezendematheus@hotmail.com,+55 81 3878-2614
+380,381,Luiza Nunes,43,23/04/2002,Masculino,10068.95,88.5,1.79,Engenharia,06/06/2018,lda-conceicao@goncalves.com,71 1198-6252
+381,382,João Vitor da Rocha,26,13/12/2005,Feminino,8516.7,70.3,1.84,Marketing,28/05/2019,pedro-lucasfreitas@aragao.com,+55 81 1040-4641
+382,383,Dr. Enzo Monteiro,60,20/11/1980,Masculino,12685.99,71.0,1.61,Engenharia,21/10/2017,gustavo-henrique65@monteiro.br,(071) 8580 0901
+383,384,Diego Sales,59,06/04/1978,Feminino,10136.1,61.0,1.6,Engenharia,24/01/2016,laviniacardoso@ig.com.br,0300 533 8470
+384,385,Samuel Pires,37,12/04/1987,Feminino,5987.9,99.7,1.95,RH,05/02/2017,novaesesther@hotmail.com,+55 41 7822-5632
+385,386,Cauê Cunha,47,08/12/1989,Feminino,13071.92,99.0,1.65,Vendas,21/09/2020,kamillycavalcanti@nogueira.net,+55 51 6101 1263
+386,387,Camila Costa,38,30/12/2002,Feminino,15090.37,62.2,1.95,Financeiro,27/04/2022,theosilva@pereira.com,+55 (081) 6936-9960
+387,388,Dra. Olivia Cardoso,22,16/07/1999,Outro,18357.53,75.3,1.61,Financeiro,04/04/2016,ucarvalho@bol.com.br,(011) 4441-4484
+388,389,Emanuella Pereira,18,06/02/2004,Outro,13860.26,65.7,1.6,TI,23/05/2020,gsales@peixoto.br,+55 84 5687-9819
+389,390,Samuel da Mota,47,15/02/1984,Feminino,7429.35,119.0,1.87,Logística,12/04/2020,daniel46@bol.com.br,+55 (084) 7404 6057
+390,391,Emanuelly Barbosa,57,05/08/1982,Outro,13580.13,105.4,1.87,Vendas,01/01/2025,peixotoana-julia@uol.com.br,(081) 1929 8704
+391,392,Mariane da Paz,54,04/12/1973,Masculino,2560.71,66.6,1.88,Logística,01/08/2024,das-neveserick@azevedo.com,0300 844 7687
+392,393,Sr. Francisco Dias,24,27/06/2005,Outro,19974.56,84.6,1.96,Logística,26/11/2017,ycorreia@uol.com.br,(051) 1076 4059
+393,394,Dra. Yasmin Pereira,22,31/05/1984,Masculino,17251.37,75.3,1.85,RH,24/02/2024,brunafreitas@araujo.com,(011) 0094-1797
+394,395,Maria Vitória Viana,52,28/10/1990,Masculino,9672.93,90.1,1.85,Marketing,03/08/2018,raulcardoso@da.com,51 3906 3647
+395,396,Francisco Mendes,31,16/08/1990,Masculino,3943.31,82.7,1.7,RH,27/03/2019,bryanramos@yahoo.com.br,+55 (071) 5145-0149
+396,397,Nicole da Rocha,50,15/09/1971,Outro,14823.22,118.8,1.62,Logística,22/02/2019,vda-conceicao@dias.com,+55 21 4373-0451
+397,398,Isabella Pires,34,15/07/1987,Feminino,9984.12,59.1,1.66,Logística,06/05/2022,maite03@pinto.br,+55 61 7243 8143
+398,399,Elisa Aragão,26,26/11/1966,Feminino,18186.8,111.9,1.64,Marketing,24/08/2016,luizamartins@uol.com.br,+55 31 9741-6789
+399,400,Theo da Rosa,40,01/01/1969,Outro,7798.01,54.6,1.73,Financeiro,01/01/2025,gustavo-henriqueda-costa@uol.com.br,+55 (021) 0073 4383
+400,401,Luiz Otávio Souza,22,10/04/1990,Masculino,4670.01,77.9,1.82,TI,03/12/2015,silveiragiovanna@martins.br,+55 21 7959 1912
+401,402,Sarah Lima,33,11/06/1974,Outro,4271.45,100.2,1.65,TI,10/12/2024,nogueiraandre@da.com,11 0908-0012
+402,403,Natália Silva,41,08/03/1994,Feminino,13237.71,83.5,1.68,Financeiro,02/12/2017,samuel23@bol.com.br,+55 (051) 8372-0957
+403,404,Sra. Isabella Viana,36,21/03/1983,Outro,12536.56,78.8,1.94,Engenharia,23/05/2018,maria-clara05@lima.br,+55 11 3431 8373
+404,405,Srta. Bruna Alves,28,05/03/1986,Outro,14818.75,78.7,1.73,RH,12/01/2024,aazevedo@da.com,0500 085 9159
+405,406,Alícia da Costa,46,26/08/1988,Feminino,8856.28,90.2,1.9,TI,03/12/2017,oalmeida@azevedo.org,+55 (051) 8786-2976
+406,407,Melissa Freitas,52,01/07/1969,Feminino,12753.05,58.8,1.86,Vendas,13/03/2016,lavinianunes@farias.net,31 2862-7335
+407,408,Maria Dias,63,08/11/1973,Masculino,7308.16,72.2,1.88,Logística,04/04/2019,ada-cruz@pires.br,(041) 1125 4623
+408,409,Felipe Oliveira,37,19/02/1978,Masculino,11099.92,55.2,1.66,Engenharia,03/10/2019,freitassofia@bol.com.br,(071) 5691-7029
+409,410,Eloah Melo,57,11/09/1964,Feminino,9743.59,82.6,1.6,Marketing,30/08/2024,silvagabrielly@castro.com,(011) 0606 0172
+410,411,Carlos Eduardo Pires,59,18/08/1980,Masculino,16275.73,86.2,1.66,Vendas,15/10/2021,lunasilveira@gmail.com,+55 31 4554 2595
+411,412,Pedro Henrique Lima,51,05/08/2001,Feminino,4059.45,59.0,1.52,TI,19/03/2019,cpires@yahoo.com.br,+55 (084) 9555 8582
+412,413,Sr. Raul Ramos,18,18/09/1991,Outro,13784.83,108.0,1.93,Marketing,06/07/2017,fmoura@hotmail.com,(061) 6134 9940
+413,414,Ryan Ramos,60,12/09/1984,Masculino,17798.71,88.6,1.87,Engenharia,01/10/2017,otavio04@uol.com.br,(031) 1939-6854
+414,415,Gustavo Silva,53,07/11/2000,Feminino,11924.03,91.1,1.51,Marketing,10/09/2021,rochabruna@da.org,(021) 8579 9020
+415,416,Dra. Emanuelly Moraes,37,29/10/1963,Outro,17578.86,103.7,1.78,Engenharia,16/06/2017,mariana55@monteiro.br,(041) 8016-5621
+416,417,Camila Moura,60,21/06/1970,Outro,9741.26,59.0,1.79,Marketing,22/03/2021,fribeiro@da.br,(081) 0307-2057
+417,418,Carolina Barbosa,24,10/02/1993,Feminino,17985.64,85.2,1.86,RH,17/07/2015,gomescaua@da.com,(031) 8120 5903
+418,419,Sra. Letícia da Rosa,26,30/04/2003,Feminino,9448.64,110.8,1.65,TI,03/04/2017,da-rochagabrielly@costa.net,(071) 5153 6005
+419,420,Gustavo Henrique Fernandes,34,11/07/1979,Outro,16893.55,108.2,1.6,TI,06/09/2019,gustavo-henrique66@yahoo.com.br,(031) 6095-6894
+420,421,Srta. Sophie Costela,25,09/09/1962,Outro,9177.14,86.3,1.62,Logística,25/09/2018,fdas-neves@bol.com.br,0500 934 7297
+421,422,Sr. Pedro Miguel da Paz,24,25/09/2005,Feminino,15133.03,71.3,1.78,Engenharia,12/02/2020,yda-luz@ig.com.br,(031) 1441-6335
+422,423,Isabelly Dias,65,30/12/1989,Feminino,7625.87,61.3,1.62,Marketing,09/05/2016,bryanpinto@dias.com,84 3787 7493
+423,424,Fernanda da Rocha,53,30/05/2002,Outro,7625.42,115.4,1.78,Financeiro,02/06/2021,davi-lucaslopes@yahoo.com.br,41 7980 0010
+424,425,Sr. Thales Farias,27,03/04/2006,Outro,6588.02,65.8,1.97,Logística,20/11/2021,caldeiradanilo@ig.com.br,(051) 3862-0393
+425,426,Breno Viana,35,12/04/1993,Feminino,19164.67,116.3,1.67,Vendas,25/06/2024,leandroda-costa@rezende.br,+55 (031) 5001-3203
+426,427,Luigi Ribeiro,36,03/11/1963,Feminino,14362.78,86.3,1.88,Vendas,05/11/2024,vsouza@barros.org,+55 21 2404 6875
+427,428,Clarice Costela,56,02/01/2002,Outro,10536.82,69.9,1.74,Logística,02/06/2023,leonardocardoso@ig.com.br,+55 (041) 7008-4721
+428,429,Davi Lucca da Mota,31,29/06/2006,Feminino,3642.05,55.5,1.86,TI,10/06/2017,cardosonoah@uol.com.br,0900 395 7900
+429,430,Luigi Barbosa,63,27/08/2002,Feminino,3536.56,63.7,1.87,Marketing,10/04/2015,danilonascimento@lopes.br,(051) 7898 1805
+430,431,Elisa Aragão,39,15/05/1959,Feminino,9773.78,116.9,1.73,Marketing,17/09/2017,santosian@ramos.br,+55 (071) 8239-2256
+431,432,Carolina Nogueira,31,15/10/1993,Feminino,15402.6,69.2,1.87,RH,18/06/2023,souzaluiza@costela.com,51 1864 6609
+432,433,Cauê Ribeiro,61,30/01/1986,Masculino,8707.64,93.8,1.68,Vendas,02/04/2018,maria-sophia74@peixoto.org,84 5333-8349
+433,434,Juliana Moura,58,25/03/1987,Masculino,4342.08,93.0,1.57,Financeiro,09/07/2023,das-nevescaio@da.com,+55 (084) 1181 2261
+434,435,Pietra Almeida,34,21/08/1961,Outro,3079.66,56.5,1.77,TI,28/07/2022,maria-julianovaes@uol.com.br,(011) 4428-3683
+435,436,Marcelo Ferreira,50,15/04/1998,Masculino,19219.24,94.9,1.59,RH,11/02/2019,luigi36@oliveira.org,+55 (071) 3261 7113
+436,437,Luiz Felipe Aragão,49,14/04/1972,Feminino,12110.3,91.4,1.94,Financeiro,18/02/2019,peixotoheloisa@ig.com.br,11 5866-5602
+437,438,Melissa Mendes,34,14/04/2001,Masculino,14060.24,90.6,2.0,TI,06/11/2024,vnunes@goncalves.com,+55 (084) 3331 7730
+438,439,Isabella Almeida,21,14/11/1988,Outro,9394.56,62.0,1.98,RH,16/07/2018,iazevedo@rodrigues.com,0500 051 8080
+439,440,Manuela Campos,23,09/12/1995,Outro,17724.93,93.7,1.76,Financeiro,22/08/2015,marcos-vinicius09@da.net,11 1002 1582
+440,441,Renan Almeida,58,10/09/1977,Outro,18940.34,113.1,1.92,TI,16/05/2015,miguel59@ig.com.br,84 5683-7684
+441,442,Bernardo Moura,45,06/12/1980,Masculino,9612.86,73.6,1.54,Vendas,04/03/2024,cardosocarlos-eduardo@ig.com.br,11 5422 8496
+442,443,Sr. Lucca Farias,35,12/09/1964,Masculino,18485.19,114.7,1.91,Financeiro,03/01/2021,caragao@carvalho.com,+55 11 0885 1568
+443,444,João Lucas Oliveira,20,24/09/1989,Masculino,2926.03,52.9,1.52,Marketing,05/01/2022,tduarte@cardoso.net,61 3217-5647
+444,445,Carolina Novaes,18,16/12/1995,Outro,7177.33,110.5,1.5,Engenharia,03/03/2021,yuri00@yahoo.com.br,(011) 3271-0478
+445,446,Julia Cavalcanti,39,07/01/1998,Feminino,7624.08,55.7,1.57,Engenharia,04/06/2020,helenaoliveira@peixoto.br,+55 84 7826-3062
+446,447,Paulo da Costa,26,07/04/2000,Feminino,3864.81,116.4,1.82,Marketing,09/04/2017,monteirobruna@yahoo.com.br,+55 (061) 9913 3355
+447,448,Dr. Luiz Miguel Azevedo,58,25/05/1984,Outro,11133.43,104.0,1.53,Financeiro,11/11/2017,agathamoura@peixoto.net,+55 (084) 2487-2964
+448,449,Emilly Barbosa,34,23/12/1973,Outro,4785.14,68.5,1.58,Marketing,18/05/2016,costelathomas@da.org,0800 105 3105
+449,450,Erick Viana,28,18/09/2001,Outro,10679.41,64.8,1.61,Engenharia,30/10/2021,vdas-neves@pires.org,51 0025 7842
+450,451,Eloah Gomes,65,20/04/1966,Outro,17250.95,90.0,1.73,Engenharia,12/08/2021,barrosleonardo@da.org,81 8894 3782
+451,452,Heitor Costa,46,16/02/1973,Feminino,8302.05,93.3,1.53,Financeiro,13/12/2018,da-rosaolivia@yahoo.com.br,+55 31 9993 7709
+452,453,Davi Azevedo,53,14/09/1960,Masculino,12012.78,52.1,1.82,Engenharia,08/07/2020,sabrina89@bol.com.br,+55 61 7256-6730
+453,454,Daniel da Rosa,63,01/11/1998,Masculino,4067.94,112.2,1.97,Vendas,07/07/2019,juan83@moura.net,(061) 2104-3902
+454,455,Isabel Pires,45,11/03/2004,Feminino,7014.23,88.2,1.96,Marketing,16/01/2020,lucas91@hotmail.com,0900-085-7893
+455,456,Isabella Barros,53,27/11/2003,Masculino,6070.86,94.9,1.83,Vendas,22/11/2018,pda-rocha@hotmail.com,+55 61 2861 0997
+456,457,Pedro Henrique da Mota,18,30/03/1991,Feminino,9724.02,71.1,1.51,Vendas,31/10/2020,iaraujo@da.br,(011) 1892-9793
+457,458,Benjamin da Rosa,25,18/04/1978,Masculino,12097.38,67.1,1.77,Financeiro,26/11/2021,xcastro@gmail.com,21 0175-9555
+458,459,Giovanna Nunes,22,05/03/2000,Feminino,15813.79,106.5,1.71,Marketing,04/01/2022,rodriguesnicole@yahoo.com.br,+55 51 4973 6614
+459,460,Enrico Rezende,62,11/07/1982,Masculino,13191.03,78.4,1.51,Financeiro,14/01/2019,iansilveira@yahoo.com.br,+55 41 1473-0481
+460,461,Sra. Agatha Santos,27,15/01/1985,Outro,14149.58,81.7,1.86,Engenharia,14/02/2025,joao49@da.com,+55 (031) 3437-0691
+461,462,Ana Sophia Cardoso,52,24/06/1994,Outro,12021.32,98.2,1.77,TI,21/11/2019,xnogueira@gmail.com,+55 41 8800 7037
+462,463,Lucca Moraes,20,22/10/1999,Masculino,12961.91,61.1,1.64,Financeiro,16/12/2023,cda-costa@pinto.net,11 1733 5049
+463,464,Dra. Isabel Rodrigues,41,27/12/2006,Feminino,13840.96,79.1,1.75,Financeiro,05/06/2022,vitor-gabrielcampos@barros.net,+55 (021) 4980-3632
+464,465,Dr. Erick Pinto,55,16/03/1983,Masculino,14482.48,82.5,1.85,TI,22/07/2015,limaemanuella@aragao.org,+55 41 2878 5734
+465,466,Kaique Martins,53,21/09/1968,Masculino,2521.16,73.8,1.72,Logística,07/11/2017,esther68@uol.com.br,+55 51 9310 8832
+466,467,Igor da Rosa,27,25/12/1985,Outro,6918.87,60.1,1.97,Engenharia,04/05/2023,rezenderaquel@ig.com.br,+55 61 6232 5803
+467,468,Manuela Monteiro,45,01/12/1973,Feminino,15723.37,110.3,1.59,Marketing,21/01/2024,manuelafreitas@santos.br,(051) 5088-4785
+468,469,Manuela Nunes,26,08/03/2005,Outro,18587.68,72.4,1.96,RH,12/08/2021,duarterodrigo@moraes.br,(031) 0702 0834
+469,470,Luiza Carvalho,20,22/02/1974,Masculino,8318.42,119.2,1.76,Logística,02/02/2024,thiagopereira@ramos.br,(031) 4979 9934
+470,471,Ana Lívia Caldeira,37,09/07/1985,Outro,5265.3,74.2,1.62,TI,19/07/2017,barbosaluiz-henrique@da.com,(031) 7795-1714
+471,472,Maria Fernanda da Paz,41,23/07/1962,Feminino,4578.53,77.9,1.81,RH,24/01/2022,xlima@bol.com.br,(051) 0146 2106
+472,473,Samuel Alves,20,16/02/1992,Masculino,13832.2,103.2,1.63,Engenharia,31/05/2023,paulorezende@da.br,(084) 7280-6850
+473,474,João Monteiro,40,28/12/1995,Masculino,3252.54,86.0,1.68,Financeiro,14/09/2015,beniciocardoso@bol.com.br,31 0828-7937
+474,475,Igor Costela,31,21/02/1962,Outro,15337.44,57.4,1.9,Financeiro,12/07/2023,pedro-miguelgoncalves@ramos.com,+55 41 0318 5412
+475,476,Dra. Manuela Martins,61,29/03/2000,Feminino,19492.59,66.9,1.54,Logística,30/03/2021,benjaminmonteiro@costela.com,0900 344 1336
+476,477,Lara Fogaça,33,03/03/1994,Feminino,3651.64,58.6,1.98,Engenharia,09/04/2024,nogueiraluiza@caldeira.br,0900-849-1609
+477,478,Pietra Carvalho,60,25/01/1982,Feminino,11548.69,81.5,1.73,Marketing,25/05/2017,clara49@pereira.com,+55 84 2644 3556
+478,479,Augusto Melo,24,04/06/1995,Feminino,8771.5,59.9,1.62,Marketing,12/04/2016,nogueirayasmin@caldeira.net,81 2173 9992
+479,480,Maitê Monteiro,40,02/03/1997,Feminino,10165.62,53.5,1.85,Vendas,26/04/2017,pintomelissa@da.net,+55 (061) 7054-0539
+480,481,Maitê Ramos,53,20/10/1976,Masculino,4833.37,116.2,1.65,Engenharia,07/01/2024,hda-luz@porto.com,0900-114-5979
+481,482,Gabrielly Pinto,44,21/03/2006,Masculino,7609.47,110.5,1.91,Engenharia,11/10/2015,gabriel88@nogueira.org,0900 967 3495
+482,483,Manuela Costela,57,22/03/1963,Feminino,7838.89,79.3,1.54,Vendas,23/10/2018,souzagiovanna@ig.com.br,(081) 6380-3947
+483,484,Sr. Bruno Campos,65,16/07/1965,Feminino,18945.33,117.4,2.0,Engenharia,15/05/2022,zdias@lima.org,+55 (031) 5408-6545
+484,485,Dr. João Vitor Rodrigues,27,18/03/1983,Masculino,12732.03,113.2,1.82,Engenharia,07/03/2022,teixeiranoah@ig.com.br,84 6020 2904
+485,486,Benício Fernandes,33,04/04/1990,Masculino,17900.16,106.9,1.52,Vendas,04/11/2021,pazevedo@uol.com.br,+55 11 9627-7455
+486,487,Ana Julia Viana,28,30/04/1984,Feminino,4800.44,115.4,1.7,Logística,27/05/2016,mdias@bol.com.br,61 3639 5636
+487,488,Pedro Martins,29,17/05/2006,Feminino,15579.85,100.5,1.69,Engenharia,25/07/2022,qaragao@pires.br,+55 31 2719 1252
+488,489,Dra. Fernanda Cardoso,44,12/12/2005,Masculino,2895.72,63.3,1.74,Engenharia,17/12/2024,rdas-neves@moraes.br,+55 31 3145-8247
+489,490,Ana Beatriz Castro,19,20/02/1991,Outro,3468.47,61.2,1.82,Financeiro,31/03/2016,mariadas-neves@uol.com.br,51 7687 7130
+490,491,Srta. Clara da Costa,29,18/12/1966,Outro,9976.03,119.7,1.85,RH,02/03/2017,santosisaac@ramos.com,71 7978 7826
+491,492,Emilly da Paz,65,07/09/1995,Outro,9632.27,82.7,1.54,Marketing,04/10/2019,luiz-henrique34@ig.com.br,+55 11 5503-9549
+492,493,Evelyn Alves,39,27/11/1993,Masculino,12927.37,111.5,1.92,RH,24/07/2019,kamilly56@castro.com,0800-759-9658
+493,494,Pietro Cunha,44,10/11/1959,Masculino,9455.31,84.8,1.82,Logística,09/10/2018,ununes@ferreira.br,+55 (031) 0547-0898
+494,495,Gabriel Santos,60,27/08/1999,Masculino,5880.24,56.3,1.67,Logística,26/04/2016,lorenasouza@da.br,+55 31 3324-9229
+495,496,Augusto Silveira,65,29/01/1964,Outro,11222.23,77.5,1.99,Financeiro,13/11/2020,rezendebianca@bol.com.br,(021) 6790-3775
+496,497,Dra. Bruna Gomes,33,28/09/1968,Feminino,8213.11,82.0,1.99,TI,18/12/2021,cunhabarbara@gmail.com,+55 (031) 2242 1106
+497,498,João Gabriel das Neves,35,01/09/1969,Masculino,3996.02,66.9,1.95,RH,20/08/2021,maria-cecilia42@hotmail.com,+55 71 9061-0958
+498,499,Emanuel Fernandes,28,16/06/2003,Masculino,14207.92,90.8,1.96,TI,24/04/2016,carvalhootavio@hotmail.com,(081) 1164 0522
+499,500,Vitor Gabriel Jesus,62,15/01/1977,Masculino,12676.42,53.4,1.61,Financeiro,28/01/2019,maria-vitoria66@bol.com.br,84 7115-5517
+0,1,João Miguel Costa,58,09/12/1967,Masculino,12045.31,86.9,,Logística,13/01/2018,barbosaigor@rocha.br,+55 84 4554-1291
+1,2,Luiza Freitas,25,22/03/2004,Feminino,9491.13,71.6,,Vendas,05/07/2020,leandro93@gmail.com,0300-167-7401
+2,3,Valentina Oliveira,19,06/06/1961,Masculino,12730.28,65.4,1.92,Marketing,17/12/2018,efarias@gmail.com,+55 (084) 6952 6333
+3,4,Lorenzo Cardoso,65,07/05/1987,Feminino,13131.53,118.9,1.84,Engenharia,10/01/2017,juliasilveira@oliveira.br,+55 (021) 8323 6186
+4,5,Giovanna Cardoso,35,18/07/1966,Masculino,15962.48,53.8,1.64,TI,18/08/2024,isabellacorreia@gomes.br,+55 (061) 7507-4719
+5,6,Luiz Henrique Dias,33,01/06/1974,Masculino,8846.8,64.3,1.5,RH,13/09/2019,enogueira@pereira.com,0300 753 3535
+6,7,Melissa Castro,32,04/09/1978,Feminino,18353.08,116.2,1.55,RH,23/04/2023,fernandoda-cunha@uol.com.br,(021) 7955-2451
+7,8,Cauê Azevedo,26,20/12/2006,Feminino,7352.36,103.7,1.57,Vendas,09/07/2023,rda-cruz@hotmail.com,(071) 1143 3329
+8,9,Eloah Cunha,65,13/03/2005,Feminino,12593.45,103.5,1.63,TI,28/11/2016,raquel27@azevedo.br,84 6800-1963
+9,10,Srta. Ana Vitória da Rosa,24,14/11/1963,Masculino,9718.94,70.3,1.68,Marketing,28/02/2019,costelamarina@costela.br,+55 61 1930-5062
+10,11,Davi Lucas Gomes,61,05/10/1962,Masculino,12235.33,58.4,1.7,Marketing,23/10/2024,ksales@duarte.com,(011) 7677 5661
+11,12,Thomas da Rosa,65,09/01/1972,Masculino,3084.15,84.8,1.52,Vendas,22/01/2025,vieirakamilly@campos.net,61 6064-0061
+12,13,Maria Clara Souza,52,30/03/1971,Outro,19281.96,80.1,1.53,RH,26/02/2024,carlos-eduardo83@yahoo.com.br,+55 21 5361 5577
+13,14,Pedro Miguel Santos,23,14/08/1963,Masculino,3786.2,59.0,1.78,Financeiro,19/09/2022,joao-miguel03@almeida.br,71 2143-1162
+14,15,Valentina Sales,55,26/12/1988,Feminino,15729.27,87.3,1.68,Logística,23/07/2018,danielgomes@ig.com.br,(084) 1004-2893
+15,16,Rebeca Azevedo,45,25/05/2003,Feminino,13259.27,66.1,1.64,TI,11/12/2015,gsales@gmail.com,+55 (051) 9830 5131
+16,17,Vitor Gabriel Nunes,20,30/01/1999,Feminino,6763.63,89.1,1.69,RH,26/04/2016,pjesus@barbosa.org,+55 51 8355 5733
+17,18,Davi da Mata,19,04/10/1961,Masculino,3461.37,96.8,1.73,Financeiro,28/04/2022,correiasarah@ig.com.br,(084) 7345-9302
+18,19,Manuela Martins,23,25/02/1960,Feminino,6317.57,74.8,1.77,Marketing,19/05/2023,benjamin51@bol.com.br,31 7748-3092
+19,20,Emanuelly Costela,31,13/12/2003,Feminino,11935.86,77.8,1.91,Financeiro,06/05/2016,marcelocavalcanti@uol.com.br,(051) 2386 7516
+20,21,Sophia Nunes,32,27/12/1997,Outro,4817.59,101.9,1.81,Logística,20/06/2021,icostela@yahoo.com.br,0500 406 2492
+21,22,Sarah Melo,50,14/01/1991,Outro,9353.32,80.5,1.81,Logística,22/07/2020,ida-mota@fogaca.com,11 9829-2842
+22,23,Evelyn Gomes,56,20/09/1994,Feminino,14408.68,82.2,1.56,Vendas,06/04/2015,gomesmelissa@ig.com.br,+55 (021) 4381-9267
+23,24,Elisa Oliveira,19,03/02/2007,Outro,10458.42,55.5,1.55,Logística,28/11/2021,heloisa66@gmail.com,(084) 7298-2037
+24,25,Matheus Oliveira,53,01/08/1963,Outro,2587.52,71.9,1.69,Engenharia,25/04/2024,qferreira@bol.com.br,+55 11 1657-5079
+25,26,Milena Nunes,30,05/12/2003,Feminino,7185.89,80.0,1.99,RH,14/06/2019,dpeixoto@bol.com.br,41 2700-8571
+26,27,Marina da Mota,63,25/08/1972,Masculino,7088.93,78.3,1.78,TI,16/01/2017,qmartins@hotmail.com,0300 051 4119
+27,28,Maria Clara da Mota,59,02/12/1969,Masculino,17472.92,94.8,1.68,Financeiro,21/04/2018,pereiramaria-eduarda@hotmail.com,+55 21 2416-5742
+28,29,Clarice da Cruz,62,10/08/1982,Feminino,3281.24,70.3,1.57,Marketing,28/02/2020,davidias@correia.br,(084) 7847-4746
+29,30,Bárbara Azevedo,52,28/07/1998,Masculino,6201.63,78.4,1.8,Financeiro,16/02/2016,gda-costa@freitas.com,(021) 9664 5540
+30,31,Ana Clara Fernandes,44,09/08/2000,Outro,6761.98,117.6,1.7,Marketing,11/08/2018,isabellacampos@aragao.org,(071) 3533 5724
+31,32,Maria Alice Cardoso,32,31/03/1996,Feminino,16242.46,62.0,1.52,Logística,27/06/2022,da-conceicaovalentina@ig.com.br,+55 41 6862-6646
+32,33,Heloísa Pinto,46,14/11/1959,Masculino,12616.21,116.3,1.52,Logística,23/11/2021,duartelevi@ig.com.br,+55 (041) 8240-1688
+33,34,Sra. Valentina Silva,55,28/10/2001,Masculino,16470.3,82.2,1.86,Engenharia,20/12/2016,benjamin66@da.com,+55 (031) 0743-1345
+34,35,Lucas da Mata,35,18/05/1973,Outro,5560.75,98.3,1.9,Vendas,17/01/2025,lucas55@teixeira.br,(061) 4283-0422
+35,36,Raul Mendes,18,21/06/1961,Feminino,4065.97,75.3,1.76,Marketing,07/07/2016,ycostela@costa.br,21 6693 7458
+36,37,Yuri Peixoto,28,06/07/1993,Feminino,6046.57,80.6,1.57,TI,19/07/2018,daniel85@ribeiro.com,+55 61 0045 5124
+37,38,Eduarda Moraes,62,02/11/1960,Outro,4681.81,57.4,1.95,Engenharia,09/10/2021,xduarte@yahoo.com.br,+55 (051) 3100 7867
+38,39,Pedro Miguel da Conceição,45,18/03/1993,Feminino,6781.38,80.5,1.57,Logística,13/09/2019,caue47@vieira.com,(084) 2808 0100
+39,40,Clarice da Cruz,39,22/10/1975,Feminino,4560.25,78.0,1.97,Vendas,25/08/2022,brezende@lima.br,(021) 5186 7367
+40,41,Noah Barbosa,35,06/05/1997,Outro,3073.48,55.5,1.66,Financeiro,15/02/2025,brunacardoso@uol.com.br,0800-637-7312
+41,42,Dra. Agatha Barbosa,27,23/12/1974,Outro,16267.31,110.9,1.7,Logística,03/05/2023,gabriel13@freitas.br,(071) 2418-3880
+42,43,Daniela Freitas,31,18/10/1959,Masculino,12710.79,102.2,1.81,Vendas,22/06/2019,arthur12@ig.com.br,+55 84 0410 7195
+43,44,Vitor Hugo Cardoso,39,21/08/1995,Feminino,16836.33,65.5,1.92,Vendas,14/03/2020,zmartins@bol.com.br,84 7137-6226
+44,45,Theo Farias,24,18/12/1973,Outro,18581.47,104.5,1.8,RH,06/09/2017,maria-ceciliamoreira@campos.br,(084) 1974-7141
+45,46,Olivia da Conceição,23,02/05/1972,Masculino,9904.76,55.3,1.75,Marketing,09/05/2024,ydas-neves@ig.com.br,+55 (021) 3818 4179
+46,47,Thiago Nascimento,42,19/04/1995,Feminino,10436.56,94.3,1.75,Vendas,08/11/2018,theosales@vieira.com,+55 (081) 6328 0822
+47,48,Larissa da Rocha,24,21/01/1988,Masculino,7473.64,87.1,1.74,TI,18/08/2020,azevedolucas@gmail.com,0800-671-0307
+48,49,Carolina Souza,40,31/07/1986,Outro,9245.15,63.6,1.78,RH,08/10/2017,joao-felipe10@goncalves.com,+55 71 2012 4386
+49,50,Alice Melo,40,21/05/1983,Feminino,6900.43,104.3,1.74,RH,15/04/2021,bernardofarias@barbosa.com,+55 31 6620-9377
+50,51,Srta. Júlia Pinto,56,16/11/1960,Masculino,11719.67,74.6,1.51,Engenharia,21/12/2019,santosjoana@pires.org,0300 561 0928
+51,52,Dr. João Miguel Costela,34,18/08/1974,Outro,9879.66,117.1,1.67,Financeiro,04/02/2023,kaiquemoreira@uol.com.br,11 1990-2229
+52,53,Sra. Mariana Aragão,20,18/08/2001,Outro,12764.66,95.2,1.55,Logística,05/08/2021,brendadas-neves@bol.com.br,+55 31 6339 2746
+53,54,Joaquim Oliveira,64,14/02/1988,Outro,18009.61,60.3,1.71,RH,24/07/2017,thiago09@yahoo.com.br,0500 210 0792
+54,55,Maria Fernanda Dias,47,13/11/1974,Outro,15221.61,57.2,1.65,TI,16/03/2021,murilo84@novaes.net,(031) 7102-3906
+55,56,Enrico Dias,52,11/11/1994,Outro,12866.85,67.9,1.95,Marketing,05/04/2022,luiz-miguel22@silveira.br,+55 (051) 9139 2363
+56,57,Luigi Costela,25,22/01/1989,Outro,2465.57,62.1,1.94,Logística,09/03/2021,maria-sophiamoraes@bol.com.br,+55 (011) 6431-4914
+57,58,Gabriela Castro,42,23/10/1968,Outro,6120.64,60.7,1.81,Marketing,14/06/2016,theo44@ig.com.br,+55 84 5914-3384
+58,59,Davi Lucca Jesus,23,06/10/1984,Masculino,14137.37,103.1,1.8,Marketing,18/03/2016,martinsclara@lopes.com,+55 31 2505-1654
+59,60,Sarah Cunha,53,25/03/1964,Feminino,17489.3,55.3,1.63,Engenharia,02/01/2017,bryan83@yahoo.com.br,+55 (021) 4840 2139
+60,61,Sr. Guilherme Ramos,36,29/08/2006,Feminino,12568.21,116.6,1.83,Logística,05/07/2017,aragaodaniel@yahoo.com.br,0300-644-8997
+61,62,João Vitor Oliveira,58,16/12/1995,Masculino,2373.42,94.0,1.99,TI,06/05/2019,antonio06@farias.br,+55 (071) 0844 7019
+62,63,Vitória da Cunha,57,25/02/1974,Outro,15765.69,82.5,1.79,RH,02/08/2023,ocostela@hotmail.com,+55 81 9859-6855
+63,64,Lorenzo Barbosa,41,13/11/1985,Feminino,16785.58,89.5,1.61,Vendas,01/08/2017,wdas-neves@correia.br,11 3158-9424
+64,65,Heitor da Conceição,54,21/10/1978,Outro,12372.45,90.6,1.53,TI,02/05/2015,vitor-gabrielribeiro@bol.com.br,+55 (051) 0625-3058
+65,66,Maria Sophia Araújo,30,10/09/1969,Feminino,15735.96,97.7,1.74,Logística,18/11/2021,bernardopereira@yahoo.com.br,(011) 2313 4514
+66,67,Bryan Cardoso,63,29/02/1976,Outro,5153.43,111.7,1.76,Engenharia,01/02/2023,kmoraes@fernandes.org,+55 61 0971 7347
+67,68,Srta. Joana Barros,22,05/04/1996,Masculino,11341.35,95.0,1.86,Engenharia,26/06/2017,nicole21@novaes.br,81 5008 2312
+68,69,Sr. Benício Porto,20,12/10/1989,Outro,9960.13,119.1,1.89,Financeiro,11/07/2023,kdas-neves@yahoo.com.br,+55 31 1419 5109
+69,70,Lucas Gabriel Cardoso,60,14/01/1973,Feminino,7006.82,72.6,1.69,TI,12/09/2022,danilolopes@ig.com.br,(021) 6711-8263
+70,71,Ana Laura Costela,32,19/10/2004,Outro,19945.02,118.0,1.91,Marketing,18/07/2020,maria-eduarda60@costela.com,11 6898 4952
+71,72,Beatriz da Paz,36,14/12/1968,Feminino,9845.93,72.1,1.62,Engenharia,05/03/2016,lsilva@santos.org,+55 41 0136 5045
+72,73,Natália Lima,23,14/01/1963,Outro,16656.41,80.8,1.79,Engenharia,25/12/2017,maria-luiza02@rezende.br,+55 31 8863 4734
+73,74,Mariane Freitas,32,19/08/2006,Feminino,19442.99,82.8,1.85,Financeiro,07/08/2023,cnascimento@yahoo.com.br,21 9453-9943
+74,75,Mariane Mendes,24,20/07/1972,Feminino,10460.19,94.2,1.6,Vendas,13/07/2016,araujogabriela@nascimento.br,(081) 6935 0722
+75,76,Ana Beatriz da Cruz,42,01/04/1964,Feminino,9350.27,105.7,1.72,Marketing,24/10/2020,nunesmiguel@barros.com,+55 (081) 3649-0563
+76,77,Vitor Hugo Azevedo,35,04/11/2003,Outro,7779.05,91.4,1.71,Vendas,31/05/2021,camposalice@hotmail.com,61 9970-7479
+77,78,Rafaela Fogaça,47,28/05/1964,Feminino,3882.8,74.6,1.71,Engenharia,09/09/2024,juliamartins@fogaca.br,0500-487-8277
+78,79,Nicolas Araújo,58,17/05/1999,Outro,4894.85,55.2,1.6,RH,18/10/2018,da-motaamanda@bol.com.br,+55 (021) 7255-6265
+79,80,Cecília Costa,41,14/11/1974,Masculino,9409.61,82.3,1.75,Logística,25/12/2018,giovanna18@jesus.org,31 2373-1213
+80,81,Gustavo Henrique Alves,28,12/07/1978,Masculino,10918.44,52.6,1.81,Marketing,18/01/2016,pmonteiro@bol.com.br,0300-456-5806
+81,82,Ana Vitória das Neves,41,26/10/1976,Feminino,13926.5,75.8,1.74,TI,25/10/2021,cardosoigor@bol.com.br,(051) 6741 5932
+82,83,Cauã da Costa,40,19/01/1979,Outro,9208.14,70.1,1.92,Logística,11/03/2016,pedro-miguel87@lopes.com,(041) 2245 7959
+83,84,Vicente Freitas,31,05/01/1977,Feminino,15689.0,95.1,1.86,Financeiro,16/11/2022,dcostela@rocha.org,+55 21 8779 0580
+84,85,Bárbara Viana,60,05/06/2003,Outro,2660.55,118.4,1.85,Vendas,13/06/2022,alexianogueira@gmail.com,41 2354 1693
+85,86,Pedro Santos,35,12/05/1974,Outro,3585.08,56.3,1.76,RH,07/05/2017,vicenteda-luz@cunha.br,(084) 3322-9089
+86,87,Bianca Santos,62,01/03/1971,Masculino,6543.18,91.6,1.78,RH,07/03/2021,murilo48@araujo.com,+55 (021) 1197 5865
+87,88,Joaquim Jesus,61,18/09/1978,Outro,4086.59,76.9,2.0,TI,08/06/2021,lucas62@da.br,51 4744 3977
+88,89,Luiz Henrique Melo,59,07/01/1963,Outro,15905.86,90.6,1.74,Financeiro,30/01/2025,da-costaisabel@nogueira.com,(041) 4097 7109
+89,90,Maitê Cunha,22,22/04/1969,Feminino,17568.39,116.8,1.69,Engenharia,31/10/2019,breno46@bol.com.br,81 6910 9914
+90,91,Leonardo Jesus,56,13/09/1981,Feminino,16848.69,101.7,1.98,Vendas,06/12/2024,lavinia36@gmail.com,51 9389 1876
+91,92,Ana Luiza Aragão,58,25/03/1963,Outro,2020.72,52.9,1.73,Logística,25/04/2015,vda-paz@hotmail.com,+55 (041) 0940 3920
+92,93,João Felipe da Luz,28,08/06/1965,Masculino,17648.61,113.6,1.77,Vendas,15/12/2016,ramosmariane@pires.com,0500-359-2399
+93,94,João Sales,52,03/01/2002,Feminino,10315.57,90.0,1.77,Financeiro,10/06/2021,acampos@gmail.com,+55 71 9255 8020
+94,95,Leandro Gomes,64,24/09/1987,Feminino,2975.67,63.2,1.84,Vendas,28/06/2016,acastro@yahoo.com.br,(011) 5398-2668
+95,96,Luiz Fernando Farias,33,31/05/1969,Masculino,11331.91,92.4,1.93,Engenharia,09/10/2024,isiscosta@pereira.br,+55 31 4263 0098
+96,97,Bruno Cavalcanti,28,12/12/1982,Feminino,13207.41,85.1,1.84,TI,25/12/2023,natalia70@uol.com.br,0900-514-8979
+97,98,Lucca Oliveira,47,23/06/1992,Outro,10972.88,117.0,1.9,TI,26/11/2018,joaoramos@ig.com.br,81 7033-1883
+98,99,Isabel da Mota,42,24/10/1965,Outro,9956.74,81.5,1.63,RH,04/03/2021,viniciusalmeida@da.br,81 9438-0746
+99,100,Renan Rodrigues,35,31/05/1992,Outro,2929.01,106.8,1.74,RH,25/05/2024,agatha66@da.br,+55 (084) 6340 1491
+100,101,Diego da Rosa,58,28/08/2006,Feminino,6807.01,108.6,1.98,RH,07/11/2016,luiz-fernando80@yahoo.com.br,81 6361 7025
+101,102,Maitê Almeida,62,26/12/1975,Feminino,4358.24,118.8,1.64,TI,15/08/2015,bribeiro@dias.com,+55 41 0135 0034
+102,103,Ana Luiza Mendes,53,25/06/1996,Feminino,7184.52,55.9,1.65,Engenharia,22/08/2018,aribeiro@santos.com,(041) 9039 7376
+103,104,Nicole da Rosa,32,26/02/1963,Feminino,17855.24,95.2,1.97,TI,23/06/2021,vgomes@alves.com,+55 (061) 7407 6684
+104,105,Raquel Ramos,61,16/04/1998,Outro,10724.81,52.7,1.99,Logística,10/07/2022,costaalice@gmail.com,+55 61 0948-7709
+105,106,Lorena Nascimento,38,25/11/1985,Masculino,2519.65,99.5,1.89,TI,03/12/2024,heitor45@ig.com.br,(041) 6881-9985
+106,107,Leonardo Pereira,21,03/01/1967,Outro,13340.4,119.4,1.85,RH,28/06/2023,knunes@pereira.org,+55 71 1427 3266
+107,108,Dr. Ryan Campos,32,26/07/1972,Feminino,16387.65,86.7,1.85,Financeiro,29/06/2022,tgoncalves@cardoso.com,(031) 7338 2276
+108,109,Yasmin Jesus,20,05/10/1978,Outro,14776.09,92.7,1.74,RH,14/06/2022,kribeiro@ig.com.br,+55 41 7090 3967
+109,110,Sr. Marcelo Almeida,38,09/05/1985,Masculino,7593.5,75.5,1.74,Financeiro,06/02/2016,gabriel94@melo.com,0800-580-4500
+110,111,Lorena Vieira,43,15/04/2005,Outro,2246.14,114.3,1.78,Engenharia,23/04/2024,vitor-gabrielcorreia@yahoo.com.br,31 9477-4815
+111,112,Fernanda Ferreira,35,04/01/1999,Masculino,9343.83,77.1,1.97,Engenharia,17/08/2016,da-cunhajoao-pedro@ig.com.br,+55 (061) 8585 9863
+112,113,Dra. Agatha Fogaça,22,08/09/1959,Feminino,6044.61,104.2,1.86,Marketing,15/12/2017,xcosta@cardoso.br,(041) 6620-7687
+113,114,Sr. Pedro Miguel Cardoso,31,15/03/1984,Outro,17145.3,97.5,1.64,Marketing,13/02/2019,luiz-miguelpires@moraes.br,(021) 5369 1466
+114,115,Helena Araújo,54,23/02/1999,Outro,4042.3,53.7,1.79,Marketing,31/05/2022,caldeiralevi@da.net,(041) 0475-6860
+115,116,Leandro Cavalcanti,63,05/11/1961,Outro,19047.09,94.2,1.77,Engenharia,11/02/2018,fogacaisadora@bol.com.br,+55 (011) 7822-0316
+116,117,Letícia da Luz,38,25/02/1975,Outro,13658.77,73.4,1.95,RH,01/03/2017,mrodrigues@costela.com,81 4102 0170
+117,118,Breno Sales,31,13/08/1969,Feminino,4771.48,73.1,1.7,RH,12/03/2015,ana-laurada-rosa@moura.com,+55 41 6546 6068
+118,119,Calebe da Conceição,59,12/11/1999,Masculino,18787.76,89.1,1.67,RH,16/03/2023,ana-livia62@bol.com.br,41 9525-4606
+119,120,Joaquim Rodrigues,49,15/02/2003,Masculino,7253.51,77.1,1.89,TI,25/12/2021,vicenteda-cunha@monteiro.com,(021) 3084-6568
+120,121,Larissa Correia,43,12/12/1993,Outro,14697.41,67.6,1.57,Marketing,10/09/2021,novaesmaria-clara@yahoo.com.br,(021) 6900-7957
+121,122,Sophia Cardoso,59,12/12/1975,Feminino,9478.83,109.6,1.52,RH,07/05/2024,giovanna70@jesus.br,31 9956-8686
+122,123,Natália das Neves,47,08/01/1976,Masculino,10684.99,117.5,1.98,Marketing,22/03/2022,ana-livia28@bol.com.br,11 3724-2853
+123,124,Maria Julia da Rocha,27,09/06/1966,Masculino,10499.96,92.2,1.54,Marketing,05/10/2018,carolinapereira@ig.com.br,+55 41 8085 8681
+124,125,Larissa Dias,34,12/01/2007,Masculino,10222.16,60.5,1.96,Logística,04/03/2025,lucas76@bol.com.br,81 8091-0155
+125,126,Elisa da Luz,26,10/03/1992,Masculino,4603.56,55.7,1.83,TI,13/02/2021,emanuellyda-cunha@gmail.com,+55 (061) 9563 9007
+126,127,Luiza da Rosa,33,31/10/1994,Masculino,5430.99,96.5,1.87,Logística,27/11/2024,luiz-fernandocunha@hotmail.com,81 6081-9656
+127,128,Luiz Felipe Ramos,65,15/06/1999,Masculino,12788.8,114.2,1.61,Engenharia,29/06/2019,tcavalcanti@gmail.com,+55 11 7662 7624
+128,129,Heloísa Gonçalves,53,24/08/1980,Feminino,15433.27,71.7,1.91,RH,15/07/2021,ana-juliafernandes@uol.com.br,0300-801-8159
+129,130,Theo Viana,52,02/01/1962,Outro,4457.15,95.9,1.64,TI,17/06/2023,caldeirafrancisco@bol.com.br,+55 81 6228-2794
+130,131,Laura Nascimento,34,26/07/1996,Masculino,3256.58,96.3,1.78,Engenharia,19/02/2023,luiz-fernandogomes@costa.br,+55 31 8316 4962
+131,132,Esther Caldeira,65,07/09/2002,Feminino,15908.15,59.0,1.64,Engenharia,08/08/2018,lorenzo02@ribeiro.br,+55 51 4313 2497
+132,133,Caio Cardoso,55,19/02/1966,Feminino,17379.42,99.6,1.55,Logística,09/06/2019,pietra45@yahoo.com.br,(011) 2956 5531
+133,134,Catarina Nascimento,45,04/10/1986,Outro,8117.75,55.9,1.87,RH,24/05/2018,heloisa88@rezende.org,+55 21 0511-0387
+134,135,Davi Lucas Porto,55,05/08/1968,Outro,16178.91,89.1,1.62,Vendas,12/12/2017,jda-luz@freitas.net,(011) 5121 5002
+135,136,Natália Almeida,43,16/04/1982,Masculino,6809.11,95.0,1.53,Marketing,21/05/2024,lucasda-cunha@yahoo.com.br,(081) 1698 2840
+136,137,Juliana Moura,41,30/07/1986,Outro,2046.17,73.0,1.95,Financeiro,30/11/2015,vitor-hugo29@yahoo.com.br,+55 (041) 0625-7981
+137,138,Dra. Ana Sophia Cavalcanti,32,18/12/1964,Outro,15068.92,58.9,1.61,Marketing,02/07/2015,paulolopes@yahoo.com.br,(021) 7465-7682
+138,139,Maria Sophia das Neves,26,25/12/1978,Feminino,17074.57,99.2,1.62,Marketing,11/05/2017,ana-claraviana@ramos.br,84 6979-7108
+139,140,Bruno Novaes,50,19/06/1968,Feminino,12438.62,116.3,1.55,Financeiro,01/07/2017,diasfernando@ig.com.br,(031) 8305 5405
+140,141,Sabrina da Paz,49,08/01/1961,Feminino,13878.93,119.8,1.67,Vendas,27/11/2016,eduarda21@barros.com,11 3509 0860
+141,142,Alana Fogaça,23,19/04/1961,Masculino,17574.69,113.9,1.74,Engenharia,18/01/2020,yasminrezende@barbosa.br,51 3033 9631
+142,143,Alice da Paz,21,04/02/1995,Masculino,10037.85,56.5,1.84,Financeiro,08/12/2018,carvalhoigor@yahoo.com.br,+55 (071) 9216-9723
+143,144,Vinicius Moreira,25,26/04/1996,Outro,10718.14,96.9,1.57,Financeiro,23/11/2021,oaragao@da.com,(081) 1080-6310
+144,145,Gustavo Henrique Viana,27,17/09/1994,Outro,7983.92,85.6,1.98,TI,15/03/2020,augusto15@ig.com.br,61 5971 4088
+145,146,Bianca Duarte,58,11/05/1974,Masculino,15731.71,51.3,1.99,TI,18/10/2022,zvieira@ig.com.br,11 0606 5070
+146,147,Stella Cavalcanti,28,07/08/1997,Masculino,8789.78,71.6,1.58,TI,02/12/2021,jvieira@lima.com,+55 (071) 8829 3965
+147,148,Carlos Eduardo Correia,61,01/07/1972,Feminino,18791.34,116.6,1.83,Engenharia,21/06/2021,ianmoreira@bol.com.br,84 3446 0440
+148,149,João Miguel Novaes,45,28/03/1968,Masculino,17652.83,73.9,1.94,Financeiro,15/11/2021,rezendeana-carolina@ig.com.br,+55 41 1069-7472
+149,150,Davi Lucca Nogueira,56,12/11/1979,Masculino,19653.94,103.6,1.74,RH,18/05/2016,nogueiramariane@hotmail.com,0900 136 0030
+150,151,Alexandre Mendes,22,03/08/1968,Outro,6298.5,63.4,1.83,Financeiro,24/12/2022,caldeiraamanda@oliveira.org,84 6843 4589
+151,152,Sr. Lucca Rezende,42,24/08/1997,Outro,8893.48,120.0,1.88,Engenharia,03/04/2020,luiz-gustavo74@rezende.com,0900-798-7253
+152,153,Thomas Freitas,42,30/04/1974,Feminino,17408.23,60.8,1.64,TI,14/05/2019,salesmaria-clara@gmail.com,+55 (041) 1984 1669
+153,154,Sarah Pereira,56,17/05/2005,Masculino,9393.95,70.7,1.64,Engenharia,24/04/2021,rlima@gmail.com,(011) 7786-1209
+154,155,Luiza Fogaça,47,20/11/1962,Outro,7727.17,105.2,1.53,TI,11/08/2015,amoreira@teixeira.br,(061) 5190 0418
+155,156,Srta. Eduarda Aragão,51,30/07/1990,Masculino,10513.57,85.5,1.88,Engenharia,17/11/2015,joaquimda-cunha@lopes.com,31 4924-5876
+156,157,Dr. Rafael Pinto,34,26/07/1973,Masculino,18441.74,87.8,1.83,Logística,12/01/2017,pietraaraujo@cardoso.br,+55 41 9867 1579
+157,158,Erick Lima,53,14/10/1987,Feminino,8862.16,101.7,1.62,RH,05/08/2016,novaesalice@da.com,21 7161 6928
+158,159,Pedro Miguel Nascimento,18,11/10/2003,Masculino,19791.45,86.9,1.87,TI,29/06/2015,maysamartins@gmail.com,0500 008 2175
+159,160,Bernardo Cardoso,61,17/08/1991,Feminino,16263.09,96.3,1.93,TI,08/09/2019,davi-luiz44@ig.com.br,+55 11 7275-1276
+160,161,João Felipe da Costa,64,20/11/1997,Outro,13736.34,111.3,1.52,Financeiro,24/04/2019,abarbosa@cardoso.com,11 4424-6493
+161,162,Alexia da Conceição,25,30/04/1992,Outro,4737.9,93.3,1.96,Vendas,30/08/2015,vitor-hugoda-costa@castro.net,+55 71 9421-6532
+162,163,Fernanda Rodrigues,61,01/08/1988,Outro,19366.84,91.8,1.71,Vendas,04/03/2016,ana-liviaaraujo@yahoo.com.br,0500-786-8522
+163,164,Evelyn Dias,52,15/02/1962,Outro,4272.43,60.8,1.92,Engenharia,17/07/2019,carolinasilva@moraes.org,+55 71 3785 6495
+164,165,Ana Lopes,35,29/09/1998,Feminino,19376.36,62.7,1.97,Marketing,16/05/2019,nunesryan@pereira.br,0800 314 9773
+165,166,Bernardo Araújo,59,26/08/1963,Feminino,7975.9,98.5,1.52,Marketing,10/12/2017,levi80@ferreira.org,+55 11 3864 3956
+166,167,Isabel Pires,39,05/03/1978,Outro,3806.56,93.7,1.92,Financeiro,17/11/2024,otavio66@hotmail.com,+55 (011) 9406 9797
+167,168,João Gabriel Gomes,25,05/05/1981,Outro,17210.71,113.2,1.89,Engenharia,04/02/2025,barbarapeixoto@bol.com.br,61 1161-7671
+168,169,Lorenzo Almeida,36,12/05/1961,Outro,3794.81,100.5,1.59,RH,12/09/2017,cavalcantiagatha@ig.com.br,(071) 1864-0465
+169,170,Bárbara Mendes,45,12/03/2002,Feminino,18387.95,53.1,1.87,Financeiro,22/07/2019,uaragao@yahoo.com.br,+55 81 4755 9753
+170,171,Bianca Viana,28,05/06/1999,Outro,2276.26,75.5,1.94,TI,08/07/2018,laralopes@ig.com.br,(051) 3046 4473
+171,172,Pedro Miguel da Mota,47,22/09/1981,Feminino,4594.8,100.4,1.64,RH,05/09/2020,martinsstephany@ramos.br,21 9943 3344
+172,173,Maria Correia,18,09/07/1989,Masculino,17676.79,117.9,1.52,Engenharia,08/08/2015,ribeirovinicius@jesus.br,(021) 6096-3966
+173,174,Srta. Nina Cavalcanti,64,31/08/1960,Outro,19459.22,92.7,1.65,TI,06/06/2019,ana-laura26@pinto.br,+55 (071) 3327-6243
+174,175,Dr. Danilo Alves,64,23/08/1969,Feminino,3346.91,102.7,1.8,Logística,05/04/2018,emanuelly65@gmail.com,(071) 7008 4972
+175,176,Amanda Fernandes,34,05/10/1972,Feminino,16067.46,104.9,1.96,Marketing,17/07/2022,joao-felipe72@ig.com.br,+55 (071) 7188 3360
+176,177,Davi Lucas da Mata,50,01/10/1960,Feminino,6770.41,66.4,1.67,Engenharia,07/09/2017,isadora33@ramos.br,(071) 5195 5462
+177,178,Dra. Camila Correia,29,04/05/1995,Masculino,13218.67,66.7,1.73,Logística,28/02/2021,jesusrebeca@gmail.com,+55 51 7636 4571
+178,179,Kamilly Correia,50,20/01/1990,Outro,9154.7,117.6,1.82,Logística,20/12/2018,fcardoso@gmail.com,+55 61 7086 9046
+179,180,Júlia da Costa,24,11/01/1963,Feminino,3445.68,104.9,1.76,TI,11/04/2019,valentina63@bol.com.br,+55 21 1588 7737
+180,181,Yago Azevedo,58,30/12/1998,Outro,7914.18,113.3,1.94,Engenharia,25/03/2016,cauacorreia@bol.com.br,(011) 0767-6383
+181,182,Ana Laura da Rocha,37,07/04/1994,Feminino,14138.43,63.6,1.57,TI,18/11/2024,nicolasrodrigues@nunes.br,(041) 4381 4355
+182,183,Nathan Araújo,58,29/06/1985,Outro,11605.2,97.5,1.75,Engenharia,05/12/2021,ucampos@barbosa.br,(041) 1545 0086
+183,184,Mariana Alves,50,11/03/1994,Masculino,19174.51,89.9,1.64,Logística,13/02/2021,marcela14@hotmail.com,+55 (081) 9133 7196
+184,185,Noah Castro,56,21/07/1960,Feminino,13282.39,80.8,1.9,Logística,24/01/2025,ana-luiza34@farias.org,0300 506 7717
+185,186,Gustavo Farias,30,09/03/1990,Feminino,17973.9,103.9,1.67,Logística,24/05/2017,otaviodias@yahoo.com.br,31 8262-4431
+186,187,Dr. João Pedro Castro,27,06/12/1998,Masculino,10783.05,104.5,1.87,Vendas,19/08/2018,diashelena@pereira.com,71 5517 8508
+187,188,Igor da Costa,41,15/01/1980,Outro,11738.29,85.2,1.82,Marketing,23/09/2017,enrico57@ig.com.br,(031) 2470-9660
+188,189,Cauê Fogaça,28,14/02/2001,Feminino,13114.27,79.3,1.86,Financeiro,02/04/2021,raquel48@pires.br,51 6459 9029
+189,190,Guilherme Caldeira,52,03/11/1985,Masculino,6225.86,61.3,1.51,TI,01/03/2024,kevin28@da.br,(031) 6451-1377
+190,191,Rodrigo Lopes,51,27/11/1963,Feminino,14319.19,64.0,1.67,TI,05/06/2019,pedro-lucascaldeira@cardoso.com,0500-868-5466
+191,192,Anthony Cunha,18,15/06/1966,Feminino,7172.82,92.3,1.65,Marketing,06/02/2020,dsilveira@gomes.br,+55 11 5067-7226
+192,193,Srta. Júlia Pinto,56,07/07/1963,Feminino,6094.75,111.1,1.84,Vendas,10/11/2016,ada-mota@ig.com.br,51 9165 4646
+193,194,Ana Lívia da Cruz,38,29/01/1969,Outro,3626.83,53.7,1.6,Financeiro,24/07/2019,lrezende@gmail.com,41 5641-4209
+194,195,João Lucas Gonçalves,49,09/11/1984,Masculino,19610.08,83.6,1.81,Engenharia,26/10/2022,bruno01@hotmail.com,(081) 1976-1861
+195,196,Gabrielly Rocha,19,03/05/1959,Masculino,15686.65,76.0,1.82,TI,17/01/2022,ccardoso@ig.com.br,0300 866 2993
+196,197,Kevin Teixeira,25,11/03/1981,Masculino,14670.03,115.4,1.7,Financeiro,13/03/2017,rodriguessabrina@aragao.br,+55 (081) 5572-1436
+197,198,Davi Lucas Rocha,41,10/08/2001,Masculino,3809.13,99.8,1.71,Engenharia,09/06/2016,unovaes@bol.com.br,+55 41 5097-8663
+198,199,Maitê Almeida,37,23/02/1978,Feminino,4994.57,86.1,1.66,TI,19/11/2024,leandroporto@yahoo.com.br,(084) 4844-0490
+199,200,Ana Julia Cardoso,33,02/12/1975,Outro,7390.39,58.7,1.7,TI,08/06/2023,das-neveskaique@hotmail.com,61 9593 0105
+200,201,Paulo Mendes,21,17/06/1967,Masculino,2521.05,55.9,1.55,Vendas,28/05/2015,costelaclarice@ribeiro.br,84 1388-7906
+201,202,Ana Sophia Teixeira,33,23/09/1976,Outro,7838.74,61.2,1.99,Vendas,31/01/2022,erick45@uol.com.br,+55 61 9791 1738
+202,203,Murilo da Cruz,54,01/01/2000,Masculino,3010.15,81.5,1.74,Vendas,20/10/2024,ribeiroluiz-felipe@uol.com.br,81 5293 3574
+203,204,Alícia Fogaça,23,31/05/1980,Masculino,8452.34,85.9,1.97,Engenharia,31/05/2023,camposbruno@yahoo.com.br,+55 71 2893 9881
+204,205,Brenda Araújo,23,05/10/1979,Feminino,9752.36,108.2,1.5,Marketing,01/11/2021,marianasilva@moraes.br,+55 (061) 5604-1293
+205,206,Caio Castro,64,29/01/2001,Feminino,6395.55,56.4,1.69,Logística,24/03/2017,lara70@bol.com.br,11 1172 9935
+206,207,Isabella das Neves,49,31/03/1986,Feminino,9416.93,113.7,1.72,Financeiro,11/03/2025,enzoazevedo@gmail.com,0800-709-7081
+207,208,Luiz Henrique Azevedo,22,26/01/1993,Outro,14272.41,107.2,1.63,TI,22/09/2017,marinanunes@mendes.org,61 1463 0108
+208,209,Sra. Maysa Lopes,52,29/11/2006,Feminino,5241.02,111.9,1.66,Engenharia,31/10/2024,eda-luz@bol.com.br,51 5719 5978
+209,210,Luiz Henrique das Neves,26,05/11/2003,Feminino,5151.25,115.1,1.79,TI,07/02/2021,ifogaca@da.com,+55 81 3185 2072
+210,211,Natália Moura,26,08/09/1981,Masculino,12970.85,79.0,1.79,Logística,10/11/2016,dcunha@uol.com.br,+55 (031) 3695-2421
+211,212,Emanuel Jesus,60,12/10/1983,Masculino,8885.8,77.8,1.63,Logística,29/06/2022,marina45@ig.com.br,+55 (031) 1768 3983
+212,213,Camila da Cruz,48,29/12/1985,Feminino,14296.42,76.2,1.68,Engenharia,10/07/2024,emilly25@ig.com.br,+55 (061) 1401-8644
+213,214,Davi Ribeiro,53,06/10/1961,Feminino,10958.01,77.0,1.62,TI,24/01/2018,claricerocha@mendes.org,+55 (011) 9041-1294
+214,215,Srta. Eduarda Melo,28,08/04/1976,Outro,12496.83,55.7,1.83,RH,11/01/2022,abarros@bol.com.br,+55 81 1086-9319
+215,216,Cecília Mendes,34,16/01/1998,Outro,6179.39,65.7,1.73,Marketing,24/01/2020,xramos@oliveira.br,0900 559 9751
+216,217,Stella Barros,51,01/07/1964,Masculino,13482.28,72.3,1.58,Financeiro,10/05/2015,mouraelisa@uol.com.br,41 0647-5953
+217,218,Vitor Hugo Caldeira,56,05/01/2002,Outro,10272.27,56.9,1.84,Marketing,22/05/2015,da-rochalais@pereira.org,(071) 3584 6133
+218,219,Srta. Maitê Farias,45,28/05/1990,Feminino,14003.13,100.0,1.96,Marketing,14/11/2017,marinanascimento@cardoso.br,71 3256-5473
+219,220,Leonardo Pires,31,17/02/1973,Feminino,18180.35,73.5,1.94,Financeiro,24/01/2025,emoura@dias.com,+55 (084) 0826 0864
+220,221,Heitor Pinto,52,13/04/1974,Masculino,10374.56,60.2,1.88,Vendas,09/03/2018,jesussofia@gmail.com,71 5587-8114
+221,222,Maysa Castro,64,25/03/1979,Feminino,7177.37,52.7,1.85,Logística,23/11/2024,ypinto@moreira.com,+55 (011) 3898-9685
+222,223,Dr. João Gabriel Lopes,62,13/02/1965,Feminino,11838.77,114.2,1.82,Marketing,12/09/2021,diogopereira@barbosa.br,+55 61 3259-5024
+223,224,Emanuel das Neves,30,21/03/1979,Feminino,3329.51,83.1,1.97,RH,14/11/2021,antonio89@das.br,(031) 0523 5380
+224,225,João Moraes,63,03/12/1970,Feminino,19014.24,108.2,1.68,Vendas,17/07/2016,acarvalho@nascimento.br,0900-543-5315
+225,226,Nina Dias,37,19/04/1974,Outro,19777.73,103.1,1.61,Engenharia,20/08/2022,camposmaria-luiza@cardoso.com,(084) 0236-8620
+226,227,Luiz Felipe Silva,43,12/05/1995,Outro,7384.78,82.8,1.98,Vendas,22/10/2023,luiz-fernando30@aragao.net,+55 81 9333-9426
+227,228,Ana Julia das Neves,60,04/08/1994,Outro,19316.52,93.1,1.74,Financeiro,16/10/2021,wda-costa@nascimento.com,0500 504 9688
+228,229,Luiz Miguel da Rocha,59,01/11/2006,Outro,14425.64,113.4,1.73,Engenharia,09/02/2025,vitor-gabrielduarte@pires.com,0900 545 4178
+229,230,Caio Duarte,41,29/08/1996,Outro,10223.04,51.3,1.99,Logística,04/05/2019,acavalcanti@gmail.com,41 4433 4780
+230,231,Dra. Bianca Campos,46,16/05/1982,Masculino,7438.19,65.1,1.69,TI,03/04/2015,rda-mota@lima.org,11 2306-7653
+231,232,Marcelo da Mata,51,01/12/1959,Feminino,19988.72,60.5,1.85,Logística,08/08/2016,daniel54@bol.com.br,0800 934 8753
+232,233,Lucas Gabriel Ferreira,46,08/01/2002,Masculino,17360.04,115.8,1.96,Vendas,20/10/2023,joao-gabrielcampos@hotmail.com,+55 84 9411-4629
+233,234,Nicolas Gonçalves,25,13/07/1985,Feminino,3919.76,92.6,1.88,RH,04/11/2023,stephany64@yahoo.com.br,61 8415 7036
+234,235,Evelyn Mendes,33,22/07/1985,Feminino,8864.56,79.6,1.9,Logística,25/06/2021,frocha@gmail.com,21 6880-7326
+235,236,Isaac Carvalho,32,04/02/1987,Feminino,8461.26,104.3,1.91,Logística,16/07/2019,juliana92@da.br,(051) 5550 7510
+236,237,Ana Sophia Nogueira,22,24/09/1988,Masculino,7325.7,66.6,1.88,Logística,10/11/2021,hfogaca@bol.com.br,+55 (061) 6567-5785
+237,238,Lorena Peixoto,39,07/11/1966,Feminino,14587.02,58.5,1.84,Logística,16/02/2023,isabellaalmeida@caldeira.br,0500-271-8296
+238,239,Evelyn Sales,19,26/11/1979,Feminino,2394.91,66.7,1.8,Engenharia,16/03/2022,lucas-gabrielcaldeira@caldeira.com,71 5991 7385
+239,240,Sr. Miguel da Paz,55,21/02/1961,Outro,16940.68,94.7,1.89,Vendas,07/02/2020,nathansales@pires.com,(081) 0284 0017
+240,241,Raquel Rezende,53,02/04/1990,Outro,9124.5,93.6,1.76,Engenharia,14/06/2020,hsales@bol.com.br,41 5047-6007
+241,242,Caroline Rocha,32,24/12/1993,Feminino,2145.76,54.4,1.76,Financeiro,13/05/2022,qcavalcanti@hotmail.com,+55 41 4157-8691
+242,243,Cauê Duarte,55,27/08/1970,Outro,17571.21,108.6,1.68,Vendas,09/04/2018,alexia48@ig.com.br,31 7039 6377
+243,244,Caio Peixoto,32,19/05/1960,Masculino,16009.61,85.0,1.96,TI,14/11/2021,sdias@sales.com,41 0240 2483
+244,245,Sra. Maria Vitória Lima,18,29/02/2000,Feminino,19524.85,87.5,1.56,Financeiro,10/07/2024,marianemelo@silveira.com,+55 41 7411 9067
+245,246,Yago Almeida,22,25/08/1995,Masculino,18391.11,94.2,1.91,TI,25/01/2017,martinspedro-henrique@rocha.br,(011) 2430 2482
+246,247,Guilherme Moraes,63,11/06/1998,Outro,15413.1,90.3,1.95,Vendas,08/06/2016,sabrinapeixoto@hotmail.com,11 4772 7449
+247,248,Lorenzo Gonçalves,58,09/09/1966,Outro,16991.1,100.3,1.6,Financeiro,25/10/2023,nicolemonteiro@gmail.com,+55 21 3477-4434
+248,249,Lucas Gabriel Melo,21,07/08/1990,Masculino,18252.83,70.4,1.77,Vendas,10/07/2019,vianayasmin@gmail.com,0800 569 3375
+249,250,Sr. Matheus Novaes,32,09/10/2004,Feminino,15963.34,50.1,1.58,Engenharia,15/02/2022,lsantos@gmail.com,(031) 0893-8267
+250,251,Otávio da Cunha,22,29/10/1992,Outro,6142.13,74.7,1.93,Logística,08/11/2020,cardosocarlos-eduardo@almeida.br,11 1287-0097
+251,252,Laís Porto,20,05/07/1961,Outro,16434.78,89.9,1.72,Engenharia,30/08/2023,santosemanuel@uol.com.br,+55 81 8738 8298
+252,253,Gabriela Teixeira,39,26/11/1989,Outro,5942.08,63.1,1.84,RH,17/02/2017,fnascimento@gmail.com,+55 71 9678-1174
+253,254,Cauê Fogaça,22,17/08/1982,Masculino,5422.38,96.8,1.86,Engenharia,10/06/2022,silveiraagatha@barbosa.com,71 5323 7956
+254,255,Larissa Correia,50,11/07/1991,Masculino,6511.28,86.6,1.74,Marketing,02/02/2025,carlos-eduardo02@costela.br,11 2272-8186
+255,256,João Pedro Alves,33,22/04/2002,Outro,15600.39,75.2,1.95,Engenharia,04/09/2022,freitascaua@uol.com.br,0900-919-6749
+256,257,Lucas Gonçalves,35,14/04/2002,Feminino,15814.47,116.7,1.72,Marketing,03/05/2017,davi-luiz15@nogueira.org,(081) 9395-3960
+257,258,Luiz Gustavo Almeida,60,06/09/1978,Masculino,14255.39,88.1,1.53,Engenharia,31/01/2016,portoana-sophia@hotmail.com,+55 81 8805-6083
+258,259,Ana Sophia Rodrigues,49,14/07/1984,Feminino,4462.03,105.0,1.57,Marketing,06/04/2022,joaquim02@hotmail.com,11 3162 6884
+259,260,Luiz Gustavo Lopes,31,11/06/1959,Masculino,3748.95,85.5,1.71,Marketing,01/10/2019,fernandanunes@hotmail.com,(041) 4915 8326
+260,261,Yasmin Martins,52,12/06/1974,Masculino,13294.25,51.4,1.78,Logística,15/04/2015,santosrafaela@rezende.net,61 7989 5685
+261,262,Yasmin Correia,26,02/10/1992,Feminino,2709.61,111.1,1.78,Vendas,17/01/2024,elisada-rosa@uol.com.br,+55 (031) 2451 6658
+262,263,Maitê da Conceição,64,06/04/2005,Feminino,16194.99,53.0,1.84,Engenharia,03/10/2020,emanuel79@jesus.br,61 0847-1933
+263,264,Letícia Moreira,54,01/02/1999,Feminino,2600.56,77.1,1.65,Marketing,18/06/2024,correianathan@goncalves.br,+55 51 1411 6916
+264,265,Carolina Jesus,54,10/04/2004,Masculino,8567.5,76.1,1.51,RH,24/05/2021,luiz-miguelnogueira@da.br,+55 81 2108-3142
+265,266,Julia Melo,48,30/09/1974,Feminino,4365.41,102.3,1.63,Logística,09/12/2024,eduardo52@gmail.com,+55 (081) 6355 2603
+266,267,Alexia Barros,33,04/11/1964,Feminino,18373.3,75.0,1.5,TI,26/01/2025,arthur78@uol.com.br,0900 801 4003
+267,268,Gabriel da Rosa,48,17/11/1982,Feminino,7880.94,54.7,1.61,Vendas,12/12/2024,maria-julia93@nogueira.net,+55 (011) 1279 3981
+268,269,Pedro Moraes,44,01/11/1970,Feminino,9479.06,66.9,1.54,Logística,14/07/2020,davi56@bol.com.br,+55 11 8792 3935
+269,270,Emilly Lopes,30,28/03/1995,Feminino,5614.31,96.0,1.71,Marketing,13/02/2018,rbarbosa@gmail.com,+55 51 9813 9814
+270,271,João Gabriel Santos,24,14/09/1989,Feminino,16157.23,57.3,1.85,Marketing,25/09/2016,agathacarvalho@sales.com,84 4809-6449
+271,272,Laura da Mota,24,02/04/1981,Feminino,17776.29,90.7,1.77,Vendas,11/10/2023,pedro-lucas63@gmail.com,+55 11 5264 5164
+272,273,Alana Teixeira,60,15/03/1996,Masculino,8585.44,103.0,1.53,RH,24/06/2022,luiz-felipe49@bol.com.br,+55 31 5227-7515
+273,274,Cauã Moreira,45,23/09/1973,Feminino,11032.31,59.3,1.95,RH,29/12/2017,hcavalcanti@lopes.br,+55 41 5540 2624
+274,275,Ana Lívia Peixoto,40,08/05/1993,Masculino,6905.49,74.7,1.99,Logística,03/01/2020,maria-fernandada-luz@gmail.com,+55 (061) 4675-6815
+275,276,Ana Julia Teixeira,45,14/06/1966,Outro,4961.8,73.7,1.74,Financeiro,07/06/2022,isabellamoura@yahoo.com.br,(071) 0376-0401
+276,277,Gustavo Henrique Barros,44,06/01/1971,Outro,18452.88,95.0,1.64,Vendas,26/10/2018,enzo-gabriel89@cavalcanti.com,+55 (081) 1554-4822
+277,278,Igor Castro,47,25/01/2005,Masculino,18995.38,108.1,1.59,Vendas,13/11/2022,ana-juliaazevedo@bol.com.br,+55 61 8836-2326
+278,279,Vicente Ribeiro,64,27/02/1987,Feminino,19412.91,97.9,1.57,TI,29/01/2021,nunesolivia@cardoso.br,41 8393 5128
+279,280,Cauê Monteiro,21,03/05/1959,Masculino,7312.55,118.7,1.82,Financeiro,29/04/2016,lorenzo38@yahoo.com.br,(061) 1605 7031
+280,281,Enzo Gabriel Gomes,61,04/08/1991,Outro,17667.15,83.5,1.86,Vendas,14/02/2017,cavalcantimaria-luiza@yahoo.com.br,(051) 6757 9032
+281,282,Mariana da Mata,59,16/03/1964,Masculino,16476.19,62.8,1.98,Marketing,09/03/2018,hjesus@gmail.com,+55 81 8666 4943
+282,283,Breno Fernandes,59,01/08/1961,Outro,10429.96,59.4,1.69,RH,04/03/2019,sophie75@cardoso.br,(031) 8646 6830
+283,284,Nina Pereira,24,26/11/1967,Masculino,3355.39,100.1,1.95,Marketing,08/03/2023,ana-clara57@hotmail.com,+55 (084) 7688 3911
+284,285,Natália Rezende,21,23/02/2004,Masculino,15574.73,116.1,1.72,Vendas,07/09/2020,cda-costa@uol.com.br,(081) 9037 0626
+285,286,Letícia Vieira,43,06/10/1980,Masculino,6061.06,52.6,1.96,Vendas,16/02/2018,jesusdavi-lucas@ig.com.br,(041) 9584 5328
+286,287,Thales da Mata,64,28/06/1965,Masculino,14173.83,64.1,1.69,Vendas,16/04/2023,sofianunes@bol.com.br,+55 31 9489-4194
+287,288,Murilo Silveira,39,09/04/1988,Masculino,14139.31,105.4,1.54,Engenharia,07/11/2016,usales@uol.com.br,11 1304 0081
+288,289,Diogo Cavalcanti,24,24/09/1962,Outro,9153.41,112.0,1.98,Logística,27/11/2024,estheralves@ig.com.br,(071) 8573-6163
+289,290,Theo Farias,33,07/05/1989,Masculino,17223.4,72.1,1.94,TI,19/02/2020,castroana-carolina@uol.com.br,+55 21 5169-1078
+290,291,Pietra Almeida,30,20/07/2000,Masculino,12031.63,71.7,1.57,Logística,13/11/2020,luiz-miguelda-paz@uol.com.br,+55 84 3565-2485
+291,292,Paulo Freitas,30,06/11/2003,Masculino,3625.45,77.9,1.93,Engenharia,31/05/2019,luiz-otavio40@pires.br,+55 (051) 3111-2273
+292,293,Alana Nogueira,52,29/10/1998,Feminino,9102.34,107.1,1.56,RH,18/12/2017,martinssamuel@yahoo.com.br,+55 (084) 3018 8476
+293,294,Heloísa Vieira,46,11/05/1968,Outro,6760.25,83.1,2.0,RH,13/08/2019,limaisabel@gmail.com,+55 61 8890 4284
+294,295,Sr. João Caldeira,26,21/12/1985,Masculino,4224.6,52.6,1.7,RH,19/12/2019,moreiraleandro@yahoo.com.br,(061) 3492 7745
+295,296,Renan Pires,45,02/03/1994,Outro,8634.54,95.3,1.56,TI,18/11/2023,marianejesus@uol.com.br,41 6972 6543
+296,297,Yuri Rodrigues,29,13/08/1970,Masculino,15482.21,70.0,1.99,Financeiro,12/11/2024,danielcunha@costa.com,(051) 4031-7637
+297,298,Sofia Almeida,35,26/12/1997,Feminino,6718.91,110.3,1.92,Marketing,31/10/2015,luiz-henriquefernandes@correia.br,(041) 1904 9529
+298,299,Juan Souza,47,09/03/2004,Outro,8858.46,53.3,1.88,Vendas,22/01/2017,ddas-neves@bol.com.br,+55 (084) 7939 6392
+299,300,Igor da Conceição,33,22/02/1986,Feminino,13493.89,95.9,1.99,Marketing,15/06/2023,caldeiradanilo@rezende.com,+55 21 7314 4805
+300,301,Sophie Peixoto,22,11/01/1968,Feminino,8686.53,69.1,1.73,Marketing,21/02/2018,svieira@ig.com.br,+55 11 7735-9189
+301,302,Srta. Ana Vitória Oliveira,46,16/10/1963,Masculino,14147.06,106.0,1.86,Marketing,24/02/2021,aragaoeduarda@hotmail.com,11 3926 2578
+302,303,Sr. Caio Cardoso,53,11/06/1973,Outro,10486.58,80.6,1.71,Vendas,15/09/2021,oliveirajulia@gmail.com,0300 402 5713
+303,304,Lucas Araújo,24,01/03/1961,Outro,13151.84,78.0,1.69,Marketing,08/01/2021,kevin13@pires.net,+55 (071) 9326 7733
+304,305,Luiz Miguel Silva,21,25/02/1993,Outro,18977.04,80.8,1.61,Financeiro,27/10/2023,oda-mata@fernandes.com,+55 (071) 1342 9881
+305,306,Valentina Cardoso,59,26/02/1968,Outro,7904.11,117.0,1.73,Engenharia,30/09/2020,jrocha@da.com,+55 (031) 9116 2396
+306,307,Ana Beatriz da Cruz,52,25/03/1986,Masculino,12981.48,73.7,1.58,TI,11/09/2016,barroshenrique@gmail.com,(081) 0898-3381
+307,308,Maria Alice Ramos,18,10/11/1991,Masculino,13657.74,63.1,1.59,Engenharia,29/07/2020,pereiraleandro@ig.com.br,0500-317-2175
+308,309,Thiago Vieira,23,24/07/1960,Feminino,13437.27,98.4,1.94,Engenharia,07/08/2022,caroline81@bol.com.br,71 0963-5704
+309,310,Lívia Barbosa,33,10/07/1994,Masculino,10356.82,75.7,1.88,Logística,02/12/2020,da-luzgabriel@lima.br,0800-426-8146
+310,311,Dr. Luiz Otávio Viana,28,26/03/1981,Outro,14619.39,105.8,1.52,Vendas,07/08/2019,otavio40@aragao.br,+55 84 3215-7224
+311,312,Catarina Moraes,44,26/03/1997,Masculino,13686.31,68.7,1.83,Marketing,30/06/2023,isadora62@lima.com,+55 (084) 6706-1252
+312,313,Henrique Castro,49,11/10/1978,Feminino,4100.17,55.8,1.81,Vendas,30/08/2023,npereira@bol.com.br,+55 21 8787-1522
+313,314,Benjamin Barbosa,48,20/03/1967,Outro,2816.24,79.7,1.97,Marketing,10/01/2025,vianavitor-hugo@hotmail.com,+55 84 9361-0444
+314,315,Nina Monteiro,31,08/09/1994,Outro,2669.82,80.1,1.94,Financeiro,28/09/2016,framos@ig.com.br,+55 (041) 0268 1987
+315,316,Ana Carolina Moreira,43,26/06/1960,Feminino,19926.69,119.7,1.62,TI,05/11/2024,da-pazheloisa@yahoo.com.br,+55 51 6896 9123
+316,317,Dr. Rafael Teixeira,21,03/11/1961,Feminino,4090.17,62.6,1.53,RH,03/12/2016,raquelcavalcanti@cavalcanti.br,+55 61 6149 0373
+317,318,Bruna Costela,28,08/08/1983,Outro,6226.4,70.6,1.8,Engenharia,25/11/2016,larissa12@bol.com.br,31 9922-1034
+318,319,Gabrielly Mendes,42,05/06/1975,Masculino,11675.84,57.2,1.72,RH,08/04/2016,epeixoto@hotmail.com,51 3425 1292
+319,320,Arthur da Rosa,18,30/06/2000,Masculino,8995.62,73.0,1.84,TI,22/12/2017,anacavalcanti@rocha.br,0900 799 4109
+320,321,Henrique Silva,42,23/08/2004,Outro,8678.21,70.7,1.94,Engenharia,06/11/2017,maria-vitoria20@bol.com.br,+55 41 6030 3004
+321,322,Vitor Hugo Jesus,34,15/03/2000,Outro,19088.85,81.2,1.62,RH,01/11/2015,kaique64@porto.com,+55 (051) 1411-7756
+322,323,Dr. Igor Duarte,47,23/07/1959,Outro,14536.71,100.2,1.52,RH,27/05/2024,davi-lucasda-mata@ig.com.br,(021) 6598 2588
+323,324,Augusto Lima,36,27/06/1987,Masculino,11723.46,61.7,1.72,Logística,24/12/2017,vicente55@yahoo.com.br,(011) 8392-1661
+324,325,Lucas Almeida,45,08/05/2005,Masculino,12572.13,81.1,1.77,Vendas,04/08/2023,piresana-carolina@yahoo.com.br,71 6466 0981
+325,326,Bryan da Cruz,62,31/03/1988,Outro,15078.78,81.3,1.88,Financeiro,15/01/2020,maria-aliceda-mata@cardoso.org,(021) 1365-2571
+326,327,Nicole Martins,64,09/12/1964,Feminino,17937.45,100.9,1.89,TI,17/06/2019,ana-juliamartins@campos.org,(071) 6657 5881
+327,328,Kamilly Nunes,53,12/06/1960,Outro,13788.59,113.8,1.57,TI,11/04/2020,araujorodrigo@yahoo.com.br,0300 755 5876
+328,329,Dr. Yuri Nascimento,60,02/01/1986,Outro,17006.48,93.0,2.0,TI,27/08/2018,edas-neves@da.com,84 6407 6675
+329,330,Isabelly Pinto,63,29/08/2002,Masculino,13081.74,80.4,1.62,Engenharia,14/06/2021,da-rochaenzo-gabriel@da.com,31 7039 4996
+330,331,Sr. Thiago Oliveira,49,04/09/1974,Outro,18902.96,94.8,1.96,Logística,14/02/2024,fogacarafael@ig.com.br,+55 41 5486 8716
+331,332,Pedro Lucas Rezende,27,02/12/1990,Masculino,7035.32,105.4,1.79,Financeiro,21/06/2021,maria-alice74@bol.com.br,+55 (081) 5612-3291
+332,333,Lucas Sales,30,07/08/1996,Feminino,14425.05,54.0,1.79,Marketing,20/01/2019,omoura@ig.com.br,61 8594 1932
+333,334,Enzo Sales,36,15/11/1967,Outro,5910.85,97.0,1.89,Engenharia,28/09/2015,davi-lucassantos@uol.com.br,+55 (061) 5119-9454
+334,335,Breno Fogaça,31,19/10/1996,Feminino,10004.53,78.4,1.91,TI,01/01/2024,eda-mata@uol.com.br,0500 306 2294
+335,336,Maitê Caldeira,21,30/11/1969,Outro,6250.03,85.9,1.62,Engenharia,22/11/2019,cfarias@hotmail.com,61 8659-6121
+336,337,Ana Melo,55,22/04/1974,Feminino,8528.35,102.5,1.94,RH,05/11/2019,ribeirosarah@lima.br,+55 11 3094 0162
+337,338,Sra. Isabel Correia,65,01/01/1986,Masculino,19656.7,61.2,1.99,Engenharia,24/06/2021,renanfreitas@hotmail.com,0900-103-9385
+338,339,Amanda da Mata,52,02/11/1962,Outro,8612.03,52.2,1.76,Vendas,02/07/2017,barrosyasmin@azevedo.br,(031) 2575 8488
+339,340,Ryan Duarte,21,24/07/1979,Outro,18230.53,109.4,1.71,Vendas,30/07/2018,bcaldeira@ferreira.com,0500-765-8658
+340,341,Joaquim Fernandes,65,16/11/1974,Feminino,13606.88,97.5,1.64,Engenharia,01/12/2021,jalmeida@duarte.br,(031) 0870-6133
+341,342,Eloah da Conceição,38,14/01/1969,Masculino,3089.9,80.7,1.78,TI,23/09/2017,levivieira@yahoo.com.br,41 5608 9414
+342,343,Dr. Luiz Felipe da Cunha,21,21/12/1959,Feminino,6965.87,58.8,1.8,RH,16/01/2021,emilly34@silva.br,0300-613-8121
+343,344,Gustavo Henrique Martins,21,25/08/1978,Feminino,19427.72,66.5,1.87,TI,19/01/2017,dnunes@yahoo.com.br,(011) 9626 7605
+344,345,Dra. Lavínia Rezende,55,28/01/1987,Masculino,19082.19,95.2,1.59,RH,19/12/2024,pmoreira@gomes.com,(021) 2238-3266
+345,346,Ana Clara Dias,48,22/10/1992,Feminino,16835.44,75.4,1.84,Logística,25/12/2023,helena72@hotmail.com,+55 21 7498-8920
+346,347,Diego Nunes,50,01/10/2000,Feminino,3650.12,116.5,1.78,Vendas,13/09/2024,joanafernandes@gmail.com,+55 (084) 9028 3548
+347,348,Renan Nogueira,51,12/11/1964,Outro,5817.9,52.3,1.52,RH,13/07/2020,fernandesbianca@ramos.org,+55 84 2871-0604
+348,349,Beatriz Ferreira,28,01/07/1978,Feminino,13510.87,60.7,1.67,RH,22/12/2016,framos@yahoo.com.br,+55 11 2687 6523
+349,350,Marcela Cavalcanti,21,16/01/2007,Outro,19479.68,81.5,1.82,Logística,11/09/2015,fernandacunha@da.com,(084) 5120-9049
+350,351,Sophia Santos,50,13/02/1989,Masculino,2910.41,76.0,1.69,TI,19/11/2016,caldeiraisabella@melo.br,+55 (084) 3266-5938
+351,352,Clara Rezende,23,05/04/1961,Feminino,8003.16,81.1,1.76,Vendas,09/10/2016,moreiraolivia@gmail.com,(011) 0357 1757
+352,353,Rodrigo da Costa,29,22/08/1984,Masculino,19798.78,55.4,1.85,RH,07/06/2015,cauecostela@yahoo.com.br,+55 (051) 1599 9194
+353,354,Maria Fernanda Caldeira,22,06/03/1993,Outro,16165.61,59.6,1.7,Vendas,07/04/2022,nicolas59@da.br,(051) 7819 9938
+354,355,Lavínia da Rocha,56,24/12/1966,Outro,5693.7,75.7,1.65,Logística,03/05/2024,lais55@martins.com,0300-834-3211
+355,356,Alícia Pinto,22,12/03/1985,Outro,16936.72,72.0,1.59,Financeiro,01/05/2018,ian23@ig.com.br,61 2862 2838
+356,357,Joana Barros,61,20/12/1967,Feminino,11975.74,69.5,1.77,Vendas,21/03/2018,ofernandes@ig.com.br,+55 (084) 9371-9449
+357,358,Maria Alice da Mata,33,02/04/1968,Outro,12554.9,117.2,1.62,Financeiro,04/03/2016,lucasrezende@gmail.com,0500 675 8200
+358,359,Carolina Barbosa,43,24/05/1970,Outro,16634.95,51.8,1.61,Marketing,30/10/2020,paulonovaes@bol.com.br,61 4423-4807
+359,360,Lucca Almeida,25,16/01/1997,Feminino,6193.98,63.0,1.93,Financeiro,03/03/2016,danielaragao@gmail.com,21 6660-0623
+360,361,Dra. Brenda Correia,54,09/05/1982,Feminino,15938.63,86.2,1.57,Marketing,27/11/2023,vitor-hugocorreia@aragao.net,61 8381 0803
+361,362,Caio Barros,33,16/02/2006,Feminino,16195.59,113.9,1.73,Financeiro,16/08/2023,hpeixoto@yahoo.com.br,+55 21 4642 6888
+362,363,Pedro Miguel Barros,55,28/05/1959,Outro,12727.67,58.2,1.53,TI,11/01/2018,almeidacarlos-eduardo@yahoo.com.br,(071) 4542 6673
+363,364,Ana Júlia Gonçalves,56,11/09/1964,Outro,6990.95,104.2,1.71,Marketing,04/04/2021,enrico50@porto.com,51 7787 7779
+364,365,Maria Vitória Fogaça,20,21/11/1979,Feminino,19712.51,99.3,1.71,Engenharia,09/01/2024,fogacabreno@yahoo.com.br,+55 (031) 5865 7715
+365,366,Pietra Cunha,57,17/03/1970,Feminino,19775.49,65.0,1.76,Engenharia,30/01/2023,jgoncalves@bol.com.br,(041) 6626-4795
+366,367,Laura Campos,23,09/11/1979,Masculino,11723.88,92.8,1.69,Financeiro,01/03/2022,usilveira@ig.com.br,61 0010-3023
+367,368,Rodrigo Ribeiro,44,13/10/1978,Masculino,16373.25,98.6,1.63,Logística,23/11/2016,zda-rosa@freitas.br,+55 (041) 0129-3354
+368,369,Joaquim Rocha,60,18/09/1999,Feminino,3978.67,119.9,1.67,Engenharia,27/11/2023,wduarte@porto.net,11 1067-7161
+369,370,Pietro Teixeira,55,20/06/2001,Feminino,17596.06,64.0,1.54,Vendas,21/07/2020,mbarros@costela.br,+55 21 2041-1405
+370,371,Ana Júlia Silveira,54,03/01/2006,Masculino,4372.46,59.5,1.72,Financeiro,04/08/2018,zjesus@melo.org,0500 435 8064
+371,372,Mirella Martins,51,24/11/1990,Feminino,8448.36,55.2,1.69,Financeiro,09/08/2018,tfogaca@jesus.br,+55 61 9841 1254
+372,373,Pietro Fogaça,38,30/05/1966,Outro,16191.77,62.1,1.77,Vendas,22/05/2015,yasmin48@bol.com.br,(021) 2514-2970
+373,374,Augusto Pereira,34,20/03/1975,Outro,12599.35,99.9,1.91,Vendas,16/01/2021,diasgabriela@rezende.org,0300 114 1362
+374,375,Dr. Diego Carvalho,31,16/11/1980,Outro,2284.06,119.8,1.53,Engenharia,21/05/2024,maria-fernanda83@cunha.net,+55 (051) 1357 4748
+375,376,Pedro Lucas Sales,60,30/10/1966,Feminino,6776.62,106.7,1.69,Engenharia,14/09/2022,arthurda-rocha@ig.com.br,31 7954-0779
+376,377,Vitor Cavalcanti,63,27/09/1970,Feminino,4281.65,117.7,1.8,RH,09/06/2016,diascaua@yahoo.com.br,0300 961 5472
+377,378,Helena Jesus,38,23/06/1972,Masculino,9577.29,119.1,1.52,Vendas,06/07/2020,nicole73@yahoo.com.br,+55 (011) 5779-7464
+378,379,Carolina Rodrigues,33,04/01/1982,Feminino,4045.69,96.7,1.54,Marketing,06/11/2023,alice84@uol.com.br,(061) 5100 1604
+379,380,Ana Sophia Araújo,34,19/12/1967,Feminino,3144.04,99.7,1.9,Financeiro,16/11/2017,rezendematheus@hotmail.com,+55 81 3878-2614
+380,381,Luiza Nunes,43,23/04/2002,Masculino,10068.95,88.5,1.79,Engenharia,06/06/2018,lda-conceicao@goncalves.com,71 1198-6252
+381,382,João Vitor da Rocha,26,13/12/2005,Feminino,8516.7,70.3,1.84,Marketing,28/05/2019,pedro-lucasfreitas@aragao.com,+55 81 1040-4641
+382,383,Dr. Enzo Monteiro,60,20/11/1980,Masculino,12685.99,71.0,1.61,Engenharia,21/10/2017,gustavo-henrique65@monteiro.br,(071) 8580 0901
+383,384,Diego Sales,59,06/04/1978,Feminino,10136.1,61.0,1.6,Engenharia,24/01/2016,laviniacardoso@ig.com.br,0300 533 8470
+384,385,Samuel Pires,37,12/04/1987,Feminino,5987.9,99.7,1.95,RH,05/02/2017,novaesesther@hotmail.com,+55 41 7822-5632
+385,386,Cauê Cunha,47,08/12/1989,Feminino,13071.92,99.0,1.65,Vendas,21/09/2020,kamillycavalcanti@nogueira.net,+55 51 6101 1263
+386,387,Camila Costa,38,30/12/2002,Feminino,15090.37,62.2,1.95,Financeiro,27/04/2022,theosilva@pereira.com,+55 (081) 6936-9960
+387,388,Dra. Olivia Cardoso,22,16/07/1999,Outro,18357.53,75.3,1.61,Financeiro,04/04/2016,ucarvalho@bol.com.br,(011) 4441-4484
+388,389,Emanuella Pereira,18,06/02/2004,Outro,13860.26,65.7,1.6,TI,23/05/2020,gsales@peixoto.br,+55 84 5687-9819
+389,390,Samuel da Mota,47,15/02/1984,Feminino,7429.35,119.0,1.87,Logística,12/04/2020,daniel46@bol.com.br,+55 (084) 7404 6057
+390,391,Emanuelly Barbosa,57,05/08/1982,Outro,13580.13,105.4,1.87,Vendas,01/01/2025,peixotoana-julia@uol.com.br,(081) 1929 8704
+391,392,Mariane da Paz,54,04/12/1973,Masculino,2560.71,66.6,1.88,Logística,01/08/2024,das-neveserick@azevedo.com,0300 844 7687
+392,393,Sr. Francisco Dias,24,27/06/2005,Outro,19974.56,84.6,1.96,Logística,26/11/2017,ycorreia@uol.com.br,(051) 1076 4059
+393,394,Dra. Yasmin Pereira,22,31/05/1984,Masculino,17251.37,75.3,1.85,RH,24/02/2024,brunafreitas@araujo.com,(011) 0094-1797
+394,395,Maria Vitória Viana,52,28/10/1990,Masculino,9672.93,90.1,1.85,Marketing,03/08/2018,raulcardoso@da.com,51 3906 3647
+395,396,Francisco Mendes,31,16/08/1990,Masculino,3943.31,82.7,1.7,RH,27/03/2019,bryanramos@yahoo.com.br,+55 (071) 5145-0149
+396,397,Nicole da Rocha,50,15/09/1971,Outro,14823.22,118.8,1.62,Logística,22/02/2019,vda-conceicao@dias.com,+55 21 4373-0451
+397,398,Isabella Pires,34,15/07/1987,Feminino,9984.12,59.1,1.66,Logística,06/05/2022,maite03@pinto.br,+55 61 7243 8143
+398,399,Elisa Aragão,26,26/11/1966,Feminino,18186.8,111.9,1.64,Marketing,24/08/2016,luizamartins@uol.com.br,+55 31 9741-6789
+399,400,Theo da Rosa,40,01/01/1969,Outro,7798.01,54.6,1.73,Financeiro,01/01/2025,gustavo-henriqueda-costa@uol.com.br,+55 (021) 0073 4383
+400,401,Luiz Otávio Souza,22,10/04/1990,Masculino,4670.01,77.9,1.82,TI,03/12/2015,silveiragiovanna@martins.br,+55 21 7959 1912
+401,402,Sarah Lima,33,11/06/1974,Outro,4271.45,100.2,1.65,TI,10/12/2024,nogueiraandre@da.com,11 0908-0012
+402,403,Natália Silva,41,08/03/1994,Feminino,13237.71,83.5,1.68,Financeiro,02/12/2017,samuel23@bol.com.br,+55 (051) 8372-0957
+403,404,Sra. Isabella Viana,36,21/03/1983,Outro,12536.56,78.8,1.94,Engenharia,23/05/2018,maria-clara05@lima.br,+55 11 3431 8373
+404,405,Srta. Bruna Alves,28,05/03/1986,Outro,14818.75,78.7,1.73,RH,12/01/2024,aazevedo@da.com,0500 085 9159
+405,406,Alícia da Costa,46,26/08/1988,Feminino,8856.28,90.2,1.9,TI,03/12/2017,oalmeida@azevedo.org,+55 (051) 8786-2976
+406,407,Melissa Freitas,52,01/07/1969,Feminino,12753.05,58.8,1.86,Vendas,13/03/2016,lavinianunes@farias.net,31 2862-7335
+407,408,Maria Dias,63,08/11/1973,Masculino,7308.16,72.2,1.88,Logística,04/04/2019,ada-cruz@pires.br,(041) 1125 4623
+408,409,Felipe Oliveira,37,19/02/1978,Masculino,11099.92,55.2,1.66,Engenharia,03/10/2019,freitassofia@bol.com.br,(071) 5691-7029
+409,410,Eloah Melo,57,11/09/1964,Feminino,9743.59,82.6,1.6,Marketing,30/08/2024,silvagabrielly@castro.com,(011) 0606 0172
+410,411,Carlos Eduardo Pires,59,18/08/1980,Masculino,16275.73,86.2,1.66,Vendas,15/10/2021,lunasilveira@gmail.com,+55 31 4554 2595
+411,412,Pedro Henrique Lima,51,05/08/2001,Feminino,4059.45,59.0,1.52,TI,19/03/2019,cpires@yahoo.com.br,+55 (084) 9555 8582
+412,413,Sr. Raul Ramos,18,18/09/1991,Outro,13784.83,108.0,1.93,Marketing,06/07/2017,fmoura@hotmail.com,(061) 6134 9940
+413,414,Ryan Ramos,60,12/09/1984,Masculino,17798.71,88.6,1.87,Engenharia,01/10/2017,otavio04@uol.com.br,(031) 1939-6854
+414,415,Gustavo Silva,53,07/11/2000,Feminino,11924.03,91.1,1.51,Marketing,10/09/2021,rochabruna@da.org,(021) 8579 9020
+415,416,Dra. Emanuelly Moraes,37,29/10/1963,Outro,17578.86,103.7,1.78,Engenharia,16/06/2017,mariana55@monteiro.br,(041) 8016-5621
+416,417,Camila Moura,60,21/06/1970,Outro,9741.26,59.0,1.79,Marketing,22/03/2021,fribeiro@da.br,(081) 0307-2057
+417,418,Carolina Barbosa,24,10/02/1993,Feminino,17985.64,85.2,1.86,RH,17/07/2015,gomescaua@da.com,(031) 8120 5903
+418,419,Sra. Letícia da Rosa,26,30/04/2003,Feminino,9448.64,110.8,1.65,TI,03/04/2017,da-rochagabrielly@costa.net,(071) 5153 6005
+419,420,Gustavo Henrique Fernandes,34,11/07/1979,Outro,16893.55,108.2,1.6,TI,06/09/2019,gustavo-henrique66@yahoo.com.br,(031) 6095-6894
+420,421,Srta. Sophie Costela,25,09/09/1962,Outro,9177.14,86.3,1.62,Logística,25/09/2018,fdas-neves@bol.com.br,0500 934 7297
+421,422,Sr. Pedro Miguel da Paz,24,25/09/2005,Feminino,15133.03,71.3,1.78,Engenharia,12/02/2020,yda-luz@ig.com.br,(031) 1441-6335
+422,423,Isabelly Dias,65,30/12/1989,Feminino,7625.87,61.3,1.62,Marketing,09/05/2016,bryanpinto@dias.com,84 3787 7493
+423,424,Fernanda da Rocha,53,30/05/2002,Outro,7625.42,115.4,1.78,Financeiro,02/06/2021,davi-lucaslopes@yahoo.com.br,41 7980 0010
+424,425,Sr. Thales Farias,27,03/04/2006,Outro,6588.02,65.8,1.97,Logística,20/11/2021,caldeiradanilo@ig.com.br,(051) 3862-0393
+425,426,Breno Viana,35,12/04/1993,Feminino,19164.67,116.3,1.67,Vendas,25/06/2024,leandroda-costa@rezende.br,+55 (031) 5001-3203
+426,427,Luigi Ribeiro,36,03/11/1963,Feminino,14362.78,86.3,1.88,Vendas,05/11/2024,vsouza@barros.org,+55 21 2404 6875
+427,428,Clarice Costela,56,02/01/2002,Outro,10536.82,69.9,1.74,Logística,02/06/2023,leonardocardoso@ig.com.br,+55 (041) 7008-4721
+428,429,Davi Lucca da Mota,31,29/06/2006,Feminino,3642.05,55.5,1.86,TI,10/06/2017,cardosonoah@uol.com.br,0900 395 7900
+429,430,Luigi Barbosa,63,27/08/2002,Feminino,3536.56,63.7,1.87,Marketing,10/04/2015,danilonascimento@lopes.br,(051) 7898 1805
+430,431,Elisa Aragão,39,15/05/1959,Feminino,9773.78,116.9,1.73,Marketing,17/09/2017,santosian@ramos.br,+55 (071) 8239-2256
+431,432,Carolina Nogueira,31,15/10/1993,Feminino,15402.6,69.2,1.87,RH,18/06/2023,souzaluiza@costela.com,51 1864 6609
+432,433,Cauê Ribeiro,61,30/01/1986,Masculino,8707.64,93.8,1.68,Vendas,02/04/2018,maria-sophia74@peixoto.org,84 5333-8349
+433,434,Juliana Moura,58,25/03/1987,Masculino,4342.08,93.0,1.57,Financeiro,09/07/2023,das-nevescaio@da.com,+55 (084) 1181 2261
+434,435,Pietra Almeida,34,21/08/1961,Outro,3079.66,56.5,1.77,TI,28/07/2022,maria-julianovaes@uol.com.br,(011) 4428-3683
+435,436,Marcelo Ferreira,50,15/04/1998,Masculino,19219.24,94.9,1.59,RH,11/02/2019,luigi36@oliveira.org,+55 (071) 3261 7113
+436,437,Luiz Felipe Aragão,49,14/04/1972,Feminino,12110.3,91.4,1.94,Financeiro,18/02/2019,peixotoheloisa@ig.com.br,11 5866-5602
+437,438,Melissa Mendes,34,14/04/2001,Masculino,14060.24,90.6,2.0,TI,06/11/2024,vnunes@goncalves.com,+55 (084) 3331 7730
+438,439,Isabella Almeida,21,14/11/1988,Outro,9394.56,62.0,1.98,RH,16/07/2018,iazevedo@rodrigues.com,0500 051 8080
+439,440,Manuela Campos,23,09/12/1995,Outro,17724.93,93.7,1.76,Financeiro,22/08/2015,marcos-vinicius09@da.net,11 1002 1582
+440,441,Renan Almeida,58,10/09/1977,Outro,18940.34,113.1,1.92,TI,16/05/2015,miguel59@ig.com.br,84 5683-7684
+441,442,Bernardo Moura,45,06/12/1980,Masculino,9612.86,73.6,1.54,Vendas,04/03/2024,cardosocarlos-eduardo@ig.com.br,11 5422 8496
+442,443,Sr. Lucca Farias,35,12/09/1964,Masculino,18485.19,114.7,1.91,Financeiro,03/01/2021,caragao@carvalho.com,+55 11 0885 1568
+443,444,João Lucas Oliveira,20,24/09/1989,Masculino,2926.03,52.9,1.52,Marketing,05/01/2022,tduarte@cardoso.net,61 3217-5647
+444,445,Carolina Novaes,18,16/12/1995,Outro,7177.33,110.5,1.5,Engenharia,03/03/2021,yuri00@yahoo.com.br,(011) 3271-0478
+445,446,Julia Cavalcanti,39,07/01/1998,Feminino,7624.08,55.7,1.57,Engenharia,04/06/2020,helenaoliveira@peixoto.br,+55 84 7826-3062
+446,447,Paulo da Costa,26,07/04/2000,Feminino,3864.81,116.4,1.82,Marketing,09/04/2017,monteirobruna@yahoo.com.br,+55 (061) 9913 3355
+447,448,Dr. Luiz Miguel Azevedo,58,25/05/1984,Outro,11133.43,104.0,1.53,Financeiro,11/11/2017,agathamoura@peixoto.net,+55 (084) 2487-2964
+448,449,Emilly Barbosa,34,23/12/1973,Outro,4785.14,68.5,1.58,Marketing,18/05/2016,costelathomas@da.org,0800 105 3105
+449,450,Erick Viana,28,18/09/2001,Outro,10679.41,64.8,1.61,Engenharia,30/10/2021,vdas-neves@pires.org,51 0025 7842
+450,451,Eloah Gomes,65,20/04/1966,Outro,17250.95,90.0,1.73,Engenharia,12/08/2021,barrosleonardo@da.org,81 8894 3782
+451,452,Heitor Costa,46,16/02/1973,Feminino,8302.05,93.3,1.53,Financeiro,13/12/2018,da-rosaolivia@yahoo.com.br,+55 31 9993 7709
+452,453,Davi Azevedo,53,14/09/1960,Masculino,12012.78,52.1,1.82,Engenharia,08/07/2020,sabrina89@bol.com.br,+55 61 7256-6730
+453,454,Daniel da Rosa,63,01/11/1998,Masculino,4067.94,112.2,1.97,Vendas,07/07/2019,juan83@moura.net,(061) 2104-3902
+454,455,Isabel Pires,45,11/03/2004,Feminino,7014.23,88.2,1.96,Marketing,16/01/2020,lucas91@hotmail.com,0900-085-7893
+455,456,Isabella Barros,53,27/11/2003,Masculino,6070.86,94.9,1.83,Vendas,22/11/2018,pda-rocha@hotmail.com,+55 61 2861 0997
+456,457,Pedro Henrique da Mota,18,30/03/1991,Feminino,9724.02,71.1,1.51,Vendas,31/10/2020,iaraujo@da.br,(011) 1892-9793
+457,458,Benjamin da Rosa,25,18/04/1978,Masculino,12097.38,67.1,1.77,Financeiro,26/11/2021,xcastro@gmail.com,21 0175-9555
+458,459,Giovanna Nunes,22,05/03/2000,Feminino,15813.79,106.5,1.71,Marketing,04/01/2022,rodriguesnicole@yahoo.com.br,+55 51 4973 6614
+459,460,Enrico Rezende,62,11/07/1982,Masculino,13191.03,78.4,1.51,Financeiro,14/01/2019,iansilveira@yahoo.com.br,+55 41 1473-0481
+460,461,Sra. Agatha Santos,27,15/01/1985,Outro,14149.58,81.7,1.86,Engenharia,14/02/2025,joao49@da.com,+55 (031) 3437-0691
+461,462,Ana Sophia Cardoso,52,24/06/1994,Outro,12021.32,98.2,1.77,TI,21/11/2019,xnogueira@gmail.com,+55 41 8800 7037
+462,463,Lucca Moraes,20,22/10/1999,Masculino,12961.91,61.1,1.64,Financeiro,16/12/2023,cda-costa@pinto.net,11 1733 5049
+463,464,Dra. Isabel Rodrigues,41,27/12/2006,Feminino,13840.96,79.1,1.75,Financeiro,05/06/2022,vitor-gabrielcampos@barros.net,+55 (021) 4980-3632
+464,465,Dr. Erick Pinto,55,16/03/1983,Masculino,14482.48,82.5,1.85,TI,22/07/2015,limaemanuella@aragao.org,+55 41 2878 5734
+465,466,Kaique Martins,53,21/09/1968,Masculino,2521.16,73.8,1.72,Logística,07/11/2017,esther68@uol.com.br,+55 51 9310 8832
+466,467,Igor da Rosa,27,25/12/1985,Outro,6918.87,60.1,1.97,Engenharia,04/05/2023,rezenderaquel@ig.com.br,+55 61 6232 5803
+467,468,Manuela Monteiro,45,01/12/1973,Feminino,15723.37,110.3,1.59,Marketing,21/01/2024,manuelafreitas@santos.br,(051) 5088-4785
+468,469,Manuela Nunes,26,08/03/2005,Outro,18587.68,72.4,1.96,RH,12/08/2021,duarterodrigo@moraes.br,(031) 0702 0834
+469,470,Luiza Carvalho,20,22/02/1974,Masculino,8318.42,119.2,1.76,Logística,02/02/2024,thiagopereira@ramos.br,(031) 4979 9934
+470,471,Ana Lívia Caldeira,37,09/07/1985,Outro,5265.3,74.2,1.62,TI,19/07/2017,barbosaluiz-henrique@da.com,(031) 7795-1714
+471,472,Maria Fernanda da Paz,41,23/07/1962,Feminino,4578.53,77.9,1.81,RH,24/01/2022,xlima@bol.com.br,(051) 0146 2106
+472,473,Samuel Alves,20,16/02/1992,Masculino,13832.2,103.2,1.63,Engenharia,31/05/2023,paulorezende@da.br,(084) 7280-6850
+473,474,João Monteiro,40,28/12/1995,Masculino,3252.54,86.0,1.68,Financeiro,14/09/2015,beniciocardoso@bol.com.br,31 0828-7937
+474,475,Igor Costela,31,21/02/1962,Outro,15337.44,57.4,1.9,Financeiro,12/07/2023,pedro-miguelgoncalves@ramos.com,+55 41 0318 5412
+475,476,Dra. Manuela Martins,61,29/03/2000,Feminino,19492.59,66.9,1.54,Logística,30/03/2021,benjaminmonteiro@costela.com,0900 344 1336
+476,477,Lara Fogaça,33,03/03/1994,Feminino,3651.64,58.6,1.98,Engenharia,09/04/2024,nogueiraluiza@caldeira.br,0900-849-1609
+477,478,Pietra Carvalho,60,25/01/1982,Feminino,11548.69,81.5,1.73,Marketing,25/05/2017,clara49@pereira.com,+55 84 2644 3556
+478,479,Augusto Melo,24,04/06/1995,Feminino,8771.5,59.9,1.62,Marketing,12/04/2016,nogueirayasmin@caldeira.net,81 2173 9992
+479,480,Maitê Monteiro,40,02/03/1997,Feminino,10165.62,53.5,1.85,Vendas,26/04/2017,pintomelissa@da.net,+55 (061) 7054-0539
+480,481,Maitê Ramos,53,20/10/1976,Masculino,4833.37,116.2,1.65,Engenharia,07/01/2024,hda-luz@porto.com,0900-114-5979
+481,482,Gabrielly Pinto,44,21/03/2006,Masculino,7609.47,110.5,1.91,Engenharia,11/10/2015,gabriel88@nogueira.org,0900 967 3495
+482,483,Manuela Costela,57,22/03/1963,Feminino,7838.89,79.3,1.54,Vendas,23/10/2018,souzagiovanna@ig.com.br,(081) 6380-3947
+483,484,Sr. Bruno Campos,65,16/07/1965,Feminino,18945.33,117.4,2.0,Engenharia,15/05/2022,zdias@lima.org,+55 (031) 5408-6545
+484,485,Dr. João Vitor Rodrigues,27,18/03/1983,Masculino,12732.03,113.2,1.82,Engenharia,07/03/2022,teixeiranoah@ig.com.br,84 6020 2904
+485,486,Benício Fernandes,33,04/04/1990,Masculino,17900.16,106.9,1.52,Vendas,04/11/2021,pazevedo@uol.com.br,+55 11 9627-7455
+486,487,Ana Julia Viana,28,30/04/1984,Feminino,4800.44,115.4,1.7,Logística,27/05/2016,mdias@bol.com.br,61 3639 5636
+487,488,Pedro Martins,29,17/05/2006,Feminino,15579.85,100.5,1.69,Engenharia,25/07/2022,qaragao@pires.br,+55 31 2719 1252
+488,489,Dra. Fernanda Cardoso,44,12/12/2005,Masculino,2895.72,63.3,1.74,Engenharia,17/12/2024,rdas-neves@moraes.br,+55 31 3145-8247
+489,490,Ana Beatriz Castro,19,20/02/1991,Outro,3468.47,61.2,1.82,Financeiro,31/03/2016,mariadas-neves@uol.com.br,51 7687 7130
+490,491,Srta. Clara da Costa,29,18/12/1966,Outro,9976.03,119.7,1.85,RH,02/03/2017,santosisaac@ramos.com,71 7978 7826
+491,492,Emilly da Paz,65,07/09/1995,Outro,9632.27,82.7,1.54,Marketing,04/10/2019,luiz-henrique34@ig.com.br,+55 11 5503-9549
+492,493,Evelyn Alves,39,27/11/1993,Masculino,12927.37,111.5,1.92,RH,24/07/2019,kamilly56@castro.com,0800-759-9658
+493,494,Pietro Cunha,44,10/11/1959,Masculino,9455.31,84.8,1.82,Logística,09/10/2018,ununes@ferreira.br,+55 (031) 0547-0898
+494,495,Gabriel Santos,60,27/08/1999,Masculino,5880.24,56.3,1.67,Logística,26/04/2016,lorenasouza@da.br,+55 31 3324-9229
+495,496,Augusto Silveira,65,29/01/1964,Outro,11222.23,77.5,1.99,Financeiro,13/11/2020,rezendebianca@bol.com.br,(021) 6790-3775
+496,497,Dra. Bruna Gomes,33,28/09/1968,Feminino,8213.11,82.0,1.99,TI,18/12/2021,cunhabarbara@gmail.com,+55 (031) 2242 1106
+497,498,João Gabriel das Neves,35,01/09/1969,Masculino,3996.02,66.9,1.95,RH,20/08/2021,maria-cecilia42@hotmail.com,+55 71 9061-0958
+498,499,Emanuel Fernandes,28,16/06/2003,Masculino,14207.92,90.8,1.96,TI,24/04/2016,carvalhootavio@hotmail.com,(081) 1164 0522
+499,500,Vitor Gabriel Jesus,62,15/01/1977,Masculino,12676.42,53.4,1.61,Financeiro,28/01/2019,maria-vitoria66@bol.com.br,84 7115-5517
